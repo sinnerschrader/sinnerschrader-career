@@ -77,12 +77,12 @@ The contact files for now only include _front matter_.
 
 |key|example|description|mandatory|
 | :---: | :---: | :---: | :---: |
-|name| Victoria Breuer| Name of the contact person | yes |
+|name| Recruiter Name| Name of the contact person | yes |
 |level| Talent Acquisition| Title of the contact person | maybe |
-|phone| +49 40 398855 485| phone number of the contact person| yes |
+|phone| +49 40 123456789 | phone number of the contact person| yes |
 |mail| jobs@sinnerschrader.com| email address of the contact person| yes |
-|xing| https://www.xing.com/profile/Victoria_Breuer2/cv| xing profile url of the contact person | no |
-|linkedin| https://www.linkedin.com/in/victoria-breuer-045832182/|linkedin profile url of the contact person | no |
+|xing| https://www.xing.com/... | xing profile url of the contact person | no |
+|linkedin| https://www.linkedin.com/... |linkedin profile url of the contact person | no |
 
 
 
