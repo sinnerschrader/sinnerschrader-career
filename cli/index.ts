@@ -55,9 +55,9 @@ function transformDataForDetail(template: string, job: Job): TemplateData {
 
 async function collectMarkdown() {
 
-  const contacts = new Contacts('contact-persons/**/*.md');
+  const contacts = new Contacts('data/contact-persons/**/*.md');
   await contacts.loadContacts();
-  const jobs = new Jobs('jobs/**/*.md');
+  const jobs = new Jobs('data/jobs/**/*.md');
   jobs.addContacts(contacts);
   await jobs.loadJobs();
   const germanJobs = jobs.getJobsForLanguage('de');
