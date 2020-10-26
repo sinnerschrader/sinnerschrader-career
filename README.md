@@ -57,7 +57,7 @@ A job markdown always has to inlcude a front matter with the following informati
 |published | `true`/ `false` | This flag defines if the job post will be published or not | yes |
 |title | Text | The title shown for this job post, it will also be used for social sharing | yes |
 |description | Text | The description will only be used for social sharing | no |
-|contact | `contact key` | This is the file name of the contact data that will be shown. e.g. 'victoria'. If not provided the 'default' contact will be used| no |
+|contact | `contact key` | This is the file name of the contact data that will be shown. e.g. 'martin'. If not provided the 'default' contact will be used| no |
 
 #### Content
 
