@@ -114,7 +114,3 @@ switch (process.argv[2]) {
     main();
     break;
 }
-
-
-// alle templates, die mit _ beginnen werden nicht unter dem Namen geschrieben, den die Datei hat
-// alles unter partials wird als handlebar partial angeboten unter dem Pfad ab partials
