@@ -1,0 +1,26 @@
+{
+  "name": "md-lab",
+  "version": "0.1.0",
+  "description": "testing out how to parse and include md into a template",
+  "scripts": {
+    "build": "ts-node cli/index.ts build",
+    "start": "ts-node cli/index.ts watch"
+  },
+  "author": "martin.sonnenholzer",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.2",
+    "chalk": "^4.1.0",
+    "globby": "^11.0.1",
+    "gray-matter": "^4.0.2",
+    "handlebars": "^4.7.6",
+    "node-watch": "^0.7.0",
+    "rehype-stringify": "^8.0.0",
+    "remark-parse": "^9.0.0",
+    "remark-rehype": "^8.0.0",
+    "ts-node": "^9.0.0",
+    "tslib": "^2.0.3",
+    "typescript": "^4.0.3",
+    "unified": "^9.2.0"
+  }
+}

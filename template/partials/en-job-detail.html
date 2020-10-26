@@ -1,0 +1,10 @@
+en
+<div id="job-{{job.id}}">
+    {{{job.content}}}
+
+    <div>
+        contact
+        {{>enContact contact=job.contact}}
+        {{job.contact.name}}
+    </div>
+</div>
