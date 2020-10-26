@@ -41,7 +41,7 @@ export class Jobs {
         return {
           id: item.id,
           location: item.location,
-          profession: item.discipline,
+          discipline: item.discipline,
           level: item.level,
           company: item.company
         }
