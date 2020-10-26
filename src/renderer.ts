@@ -28,6 +28,7 @@ export class Renderer {
       let outputFile = '';
       if (!isPartial) {
         fileSegments.shift();
+        // TODO: What if it's not the file name that needs to be dynamic, but a segment of the url?
         if (fileSegments[fileSegments.length - 1].startsWith('_')) {
           fileSegments[fileSegments.length - 1] = '%s.html';
         }
