@@ -52,7 +52,7 @@ export class Renderer {
 
   public compile(data?: TemplateData[]) {
     this.data = data;
-    if(this.data === undefined) {
+    if (this.data === undefined) {
       throw Error(' No data provided');
     }
 
@@ -69,23 +69,27 @@ export class Renderer {
         const dataForThisTemplate = this.data.find(it => it.template === template.file);
 
         console.info(chalk.white`Rendering "${template.file}"...`);
+        let compiledContent = '';
+        let outputFile = template.outputFile;
         if (dataForThisTemplate !== undefined) {
-          const compiledContent = template.template(dataForThisTemplate.data);
+          compiledContent = template.template(dataForThisTemplate.data);
           // TODO: title isn't the best option, maybe original filename, or a new field?
-          const outputFile = template.outputFile.replace(/%s/g, normalize((dataForThisTemplate.data.title)));
-
-          this.compiledTemplates.push({
-            file: template.file,
-            outputFile,
-            content: compiledContent
-          });
+          outputFile = outputFile.replace(/%s/g, normalize((dataForThisTemplate.data.title)));
+        } else {
+          compiledContent = template.template({});
         }
+
+
+        this.compiledTemplates.push({
+          file: template.file,
+          outputFile,
+          content: compiledContent
+        });
       });
     console.info(chalk.green`Rendering done.`);
   }
 
   public async write(outputDir: string) {
-
     console.info(chalk.green`Writing to "${outputDir}/"...`);
     await asyncForEach(this.compiledTemplates, async item => {
       console.info(chalk.white`Writing "${outputDir}/${item.outputFile}"...`);
