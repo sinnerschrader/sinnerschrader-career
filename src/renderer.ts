@@ -2,7 +2,7 @@ import chalk from 'chalk';
 import globby from 'globby';
 import * as Handlebars from 'handlebars';
 import {TemplateData} from './template-data.interface';
-import {asyncForEach, camelize, normalize, readFile, writeFile} from './utils';
+import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
 
 export class Renderer {
 
@@ -52,7 +52,7 @@ export class Renderer {
 
   public compile(data?: TemplateData[]) {
     this.data = data;
-    if(this.data === undefined) {
+    if (this.data === undefined) {
       throw Error(' No data provided');
     }
 
@@ -69,23 +69,27 @@ export class Renderer {
         const dataForThisTemplate = this.data.find(it => it.template === template.file);
 
         console.info(chalk.white`Rendering "${template.file}"...`);
+        let compiledContent = '';
+        let outputFile = template.outputFile;
         if (dataForThisTemplate !== undefined) {
-          const compiledContent = template.template(dataForThisTemplate.data);
+          compiledContent = template.template(dataForThisTemplate.data);
           // TODO: title isn't the best option, maybe original filename, or a new field?
-          const outputFile = template.outputFile.replace(/%s/g, normalize((dataForThisTemplate.data.title)));
-
-          this.compiledTemplates.push({
-            file: template.file,
-            outputFile,
-            content: compiledContent
-          });
+          outputFile = outputFile.replace(/%s/g, normalize((dataForThisTemplate.data.title)));
+        } else {
+          compiledContent = template.template({});
         }
+
+
+        this.compiledTemplates.push({
+          file: template.file,
+          outputFile,
+          content: compiledContent
+        });
       });
     console.info(chalk.green`Rendering done.`);
   }
 
   public async write(outputDir: string) {
-
     console.info(chalk.green`Writing to "${outputDir}/"...`);
     await asyncForEach(this.compiledTemplates, async item => {
       console.info(chalk.white`Writing "${outputDir}/${item.outputFile}"...`);
@@ -93,5 +97,21 @@ export class Renderer {
       console.info(chalk.white`Succesful.`);
     });
     console.info(chalk.green`Writing done...`);
+  }
+
+  public async copyAssets(assetsGlobString: string, outputDir: string) {
+    const files = await globby(assetsGlobString);
+
+    console.info(chalk.green`Found ${files.length} asset file(s) to copy to "${outputDir}/"`);
+    await asyncForEach(files, async srcFile => {
+      // remove template folder from folder structure, it should always be the first
+      const fileSegments = srcFile.split('/');
+      fileSegments.shift();
+      const targetFile = [outputDir, ...fileSegments].join('/');
+
+      console.info(chalk.white`Copy "${srcFile}" to "${targetFile}"...`);
+      await copyFile(srcFile, targetFile);
+    });
+    console.info(chalk.white`Assets succesfully copied.`);
   }
 }

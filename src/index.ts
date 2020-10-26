@@ -85,6 +85,7 @@ async function main() {
   renderer.compile(data);
 
   await renderer.write('docs');
+  await renderer.copyAssets('template/assets/**/*.*', 'docs');
 
   console.info(chalk.green`Done`);
   return {renderer, data};
@@ -100,6 +101,7 @@ async function watchTemplates() {
     await renderer.loadTemplates();
     await renderer.compile(data);
     await renderer.write('docs');
+    await renderer.copyAssets('template/assets/**/*.*', 'docs');
     console.info(chalk.green`Keep watching 'template/`);
   });
 
