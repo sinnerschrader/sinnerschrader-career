@@ -2,24 +2,8 @@
 # General
 
 This repository includes three parts.  
-Part one is the `cli` folder that includes the code to build the Sinnnerschrader career page.  
-Part two is the `template` folder that includes all template related information. it uses handlebar.  
-Part three is the `data` folder that includes the jobs, contact person and all other informations, that are written
-in markdown and compiled to the final page that is located in `docs`.
-
-## CLI
-
-Within the `cli` folder all code to build the sinnerschrader-career page is located. It contains the following important files.
-The `index.ts` is the entry file called that is setting everything up.  
-The `renderer.ts` is the class that loads the template data, wraps handlebar, compiles the data and writes it to `docs`.  
-The `jobs.ts` and `contacts.ts` classes are specific to load the data for contacts and jobs and provide them for later
-rendering.  
-
-Two basic commands exist `build`, which can be executed via `yarn build` and `watch`,
-which watches all files within `template/` and rerenders the `docs`.
-
-Hint: the watch is currently kept simple and rerender everything if any file changes within `template`.
-
+Part one  is the `data` folder that includes the jobs, contact person and all other informations, that are written in
+markdown and compiled to the final page that is located in `docs`.  
 
 ## Data
 
@@ -85,6 +69,22 @@ The contact files for now only include _front matter_.
 |linkedin| https://www.linkedin.com/... |linkedin profile url of the contact person | no |
 
 
+Part two  is the `src` folder that includes the code to build the Sinnnerschrader career page.  
+Part three is the `template` folder that includes all template related information. it uses handlebar.  
+
+## Source
+
+Within the `src` folder all code to build the sinnerschrader-career page is located. It contains the following important files.
+The `index.ts` is the entry file called that is setting everything up.  
+The `renderer.ts` is the class that loads the template data, wraps handlebar, compiles the data and writes it to `docs`.  
+The `jobs.ts` and `contacts.ts` classes are specific to load the data for contacts and jobs and provide them for later
+rendering.  
+
+Two basic commands exist `build`, which can be executed via `yarn build` and `watch`,
+which watches all files within `template/` and rerenders the `docs`.
+
+Hint: the watch is currently kept simple and rerender everything if any file changes within `template`.
+
 
 ## Templates
 
@@ -108,8 +108,7 @@ Currently the following file names/ paths are hardwired to the respective markdo
 `template/en/_detail.html` - will be used for the detail view of every English (`language: en`) job.  
 
 The partials are not related to languages so if they need a special treatment for seperate languages they need to be
-provided twice with (for example) the language as a prefix   
-   
+provided twice with (for example) the language as a prefix.   
    
 ### Data
 
