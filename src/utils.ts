@@ -18,23 +18,48 @@ export function readFile(filePath: string): Promise<string> {
   });
 }
 
+export function enforceFolder(folder: string | string[]) {
+  let folders;
+
+  if (Array.isArray(folder)) {
+    folders = [...folder];
+  } else {
+    folders = folder.split('/');
+  }
+
+  folders.reduce(
+    (acc, folder) => {
+      const folderPath = acc + folder + '/';
+      if (!fs.existsSync(folderPath)) {
+        fs.mkdirSync(folderPath);
+      }
+      return folderPath;
+    },
+    ''
+  );
+}
+
 export function writeFile(filePath: string, data: string): Promise<void> {
   return new Promise((resolve, reject) => {
 
-    const folders = filePath.split('/').slice(0, -1);  // remove last item, file
-    folders.reduce(
-      (acc, folder) => {
-        const folderPath = acc + folder + '/';
-        if (!fs.existsSync(folderPath)) {
-          fs.mkdirSync(folderPath);
-        }
-        return folderPath;
-      },
-      '' // first 'acc', important
-    );
-
+    enforceFolder(filePath.split('/').slice(0, -1));  // remove last item as it is the file name
 
     fs.writeFile(filePath, data, (err: any) => {
+      err ? reject(err) : resolve();
+    });
+  });
+}
+
+export function copyFile(srcFilePath: string, targetFilePath: string): Promise<void> {
+  return new Promise( (resolve, reject) => {
+    enforceFolder(targetFilePath.split('/').slice(0, -1));
+
+    if(fs.existsSync(targetFilePath)) {
+      // remove the existing file as we want to overwrite it
+      fs.unlinkSync(targetFilePath);
+    }
+
+    fs.copyFile(srcFilePath, targetFilePath, (err: any) => {
       err ? reject(err) : resolve();
     });
   });
