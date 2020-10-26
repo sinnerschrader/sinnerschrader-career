@@ -2,7 +2,7 @@ import chalk from 'chalk';
 import globby from 'globby';
 import * as Handlebars from 'handlebars';
 import {TemplateData} from './template-data.interface';
-import {asyncForEach, camelize, normalize, readFile, writeFile} from './utils';
+import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
 
 export class Renderer {
 
@@ -93,5 +93,21 @@ export class Renderer {
       console.info(chalk.white`Succesful.`);
     });
     console.info(chalk.green`Writing done...`);
+  }
+
+  public async copyAssets(assetsGlobString: string, outputDir: string) {
+    const files = await globby(assetsGlobString);
+
+    console.info(chalk.green`Found ${files.length} asset file(s) to copy to "${outputDir}/"`);
+    await asyncForEach(files, async srcFile => {
+      // remove template folder from folder structure, it should always be the first
+      const fileSegments = srcFile.split('/');
+      fileSegments.shift();
+      const targetFile = [outputDir, ...fileSegments].join('/');
+
+      console.info(chalk.white`Copy "${srcFile}" to "${targetFile}"...`);
+      await copyFile(srcFile, targetFile);
+    });
+    console.info(chalk.white`Assets succesfully copied.`);
   }
 }
