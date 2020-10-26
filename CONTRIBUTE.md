@@ -7,7 +7,7 @@ Please note that everyone interacting in our code bases, issue trackers, and any
 
 ## Questions or Problems
 
-If you have a question about the project or SinnerSchrader in general, feel free to drop us a message jobs@sinnerschrader.com
+If you have a question about the project or SinnerSchrader in general, feel free to drop us a message s2-codeiscolorful@accenture.com
 
 ## Filing an Issue
 
@@ -31,4 +31,3 @@ You can request a new feature by [submitting an issue](#filing-an-issue) to our 
 
 ## Acknowledgements
 A lot of this document was inspired directly by the excellent [Backbone.LayoutManager](https://github.com/tbranyen/backbone.layoutmanager/blob/master/CONTRIBUTING.md) and [Angular.js](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#issue) CONTRIBUTING files.
-
