@@ -1,23 +1,27 @@
 
+# General
 
-
-
+This repository includes three parts.  
+Part one is the `cli` folder that includes the code to build the Sinnnerschrader career page.  
+Part two is the `template` folder that includes all template related information. it uses handlebar.  
+Part three is the `data` folder that includes the jobs, contact person and all other informations, that are written
+in markdown and compiled to the final page that is located in `docs`.
 
 ## CLI
 
 
-## Final
+## Data
 ### Markdowns
 
 Was ist frontmatters
 
 Wie geht markdown
 
-#### Jobs
+### Jobs
 
 
 
-#### Contacts
+### Contacts
 
 unter contact-persons/ sind alle moeglichen Kontaktpersonen angegeben. 
 Im Augenblick werden nur die Daten im frontmatter eingelesen. 
@@ -26,7 +30,7 @@ Der Name der markdown datei ohne Endung (bsp. victoria) ist was man unter contac
 
 
 
-### Templates
+## Templates
  Nur relevant fuer Frontend Entwickler
  
  Wir setzen auf handlebars und bereiten, die jobs/ kontakte usw als data vor
