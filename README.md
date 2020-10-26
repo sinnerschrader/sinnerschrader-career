@@ -2,8 +2,10 @@
 # General
 
 This repository includes three parts.  
-Part one  is the `data` folder that includes the jobs, contact person and all other informations, that are written in
-markdown and compiled to the final page that is located in `docs`.  
+Part one is the `data` folder that includes the jobs, contact person and all other informations, that are written in
+markdown and compiled to the final page that is located in `docs`.   
+Part two  is the `src` folder that includes the code to build the Sinnnerschrader career page.  
+Part three is the `template` folder that includes all template related information. it uses handlebar.  
 
 ## Data
 
@@ -67,10 +69,6 @@ The contact files for now only include _front matter_.
 |mail| jobs@sinnerschrader.com| email address of the contact person| yes |
 |xing| https://www.xing.com/... | xing profile url of the contact person | no |
 |linkedin| https://www.linkedin.com/... |linkedin profile url of the contact person | no |
-
-
-Part two  is the `src` folder that includes the code to build the Sinnnerschrader career page.  
-Part three is the `template` folder that includes all template related information. it uses handlebar.  
 
 ## Source
 
