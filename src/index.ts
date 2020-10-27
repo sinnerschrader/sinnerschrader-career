@@ -26,6 +26,7 @@ function transformJob(job: Job): { [key: string]: string | { [key: string]: stri
     content: job.content,
     title: job.title,
     level: job.level,
+    language: job.language,
     discipline: job.discipline,
     location: job.location,
     company: job.company,
