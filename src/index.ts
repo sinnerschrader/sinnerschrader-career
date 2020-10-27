@@ -86,6 +86,7 @@ async function collectMarkdown() {
 async function main() {
   const data = await collectMarkdown();
   const renderer = new Renderer('template/**/*.html');
+  await renderer.loadTranslations('data/translations/en.yml', 'data/translations/de.yml');
   await renderer.loadTemplates();
   renderer.compile(data);
 
