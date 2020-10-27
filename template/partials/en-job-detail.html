@@ -1,16 +1,14 @@
 en
-
-
-BEISPIEL FUER TRANSLATION
-
-{{translate "Ber" job.language}}
 <tbody id="job-{{job.id}}">
     <tr class="jobs-row">
         <td class="cell-mobile">
             <a href="product-designer-ux-fmx">
-                <div>{{job.company}}</div>
+                <div>{{job.company}}</div> 
                 <div class="strong">{{job.title}}</div>
-                <div>{{job.location}}</div>
+                <div>{{job.location}} 
+                    BEISPIEL FUER TRANSLATION
+                    
+                    {{translate "Ber" job.language}}</div>
             </a>
         </td>
         <td class="jobs--title"><a>{{job.title}}</a></td>
@@ -22,7 +20,7 @@ BEISPIEL FUER TRANSLATION
         <td colspan="5">
             <section class="mod-jobsdetail is-inner">
                 <section class="article-body">
-                    <h3>{{job.title}}</h3>
+                    <h3>{{job.title}}</h3> 
                     <div>
                         {{{job.content}}}
                     </div>
