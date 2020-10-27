@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy-pr:
+  deploy-career:
     runs-on: ubuntu-latest
 
     steps:
@@ -39,7 +39,7 @@ jobs:
       - name: Install
         run: yarn --frozen-lockfile
 
-      - name: build sinnerschrader career pages
+      - name: build SinnerSchrader career page
 
         run: |
 
