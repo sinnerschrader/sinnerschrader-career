@@ -25,10 +25,14 @@ function transformJob(job: Job): { [key: string]: string | { [key: string]: stri
   return {
     content: job.content,
     title: job.title,
+    level: job.level,
+    discipline: job.discipline,
+    location: job.location,
+    company: job.company,
+    description: job.description,
     id: job.id,
     date: job.date,
     contact: transformContact(job.contact)
-    // TODO: provide more meta data for job?
   };
 }
 
