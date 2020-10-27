@@ -5,9 +5,11 @@
         {{>svgsprite}}
         <div class="container">
             {{>header}}
-            <main class="main ">
+            <main class="main">
+                {{>hero}}
                 <section class="mod-jobslist">
                     <table>
+                        {{>columnHeader}}
                         {{#jobs}}
                             {{>enJobDetail job=.}}
                         {{/jobs}}
