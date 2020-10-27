@@ -1,7 +1,9 @@
 import chalk from 'chalk';
 import globby from 'globby';
+import {language} from 'gray-matter';
 import * as Handlebars from 'handlebars';
 import {TemplateData} from './template-data.interface';
+import YAML from 'yaml';
 import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
 
 export class Renderer {
@@ -11,8 +13,25 @@ export class Renderer {
   private templates = [];
   private partials = [];
   private data;
+  private translations = {
+    en: {},
+    de: {}
+  };
 
   constructor(public globString: string) {
+  }
+
+  public async loadTranslations(enFile: string, deFile: string) {
+
+    console.info(chalk.white`Loading English translations...`);
+    const enYmlContent = await readFile(enFile);
+    const enJson = YAML.parse(enYmlContent);
+    this.translations.en = enJson;
+
+    console.info(chalk.white`Loading German translations...`);
+    const deYmlContent = await readFile(deFile);
+    const deJson = YAML.parse(deYmlContent);
+    this.translations.de = deJson;
   }
 
   public async loadTemplates() {
@@ -56,6 +75,17 @@ export class Renderer {
     if (this.data === undefined) {
       throw Error(' No data provided');
     }
+
+
+    console.info(chalk.green`Register translations...`);
+
+    Handlebars.registerHelper('translate', (key, lang) => {
+      if(this.translations[lang] && this.translations[lang][key]) {
+        return this.translations[lang][key]
+      }
+
+      return key;
+    });
 
     console.info(chalk.green`Rendering...`);
     this.partials.forEach(partial => {

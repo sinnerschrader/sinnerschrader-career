@@ -25,10 +25,15 @@ function transformJob(job: Job): { [key: string]: string | { [key: string]: stri
   return {
     content: job.content,
     title: job.title,
+    level: job.level,
+    language: job.language,
+    discipline: job.discipline,
+    location: job.location,
+    company: job.company,
+    description: job.description,
     id: job.id,
     date: job.date,
     contact: transformContact(job.contact)
-    // TODO: provide more meta data for job?
   };
 }
 
@@ -81,6 +86,7 @@ async function collectMarkdown() {
 async function main() {
   const data = await collectMarkdown();
   const renderer = new Renderer('template/**/*.html');
+  await renderer.loadTranslations('data/translations/en.yml', 'data/translations/de.yml');
   await renderer.loadTemplates();
   renderer.compile(data);
 
