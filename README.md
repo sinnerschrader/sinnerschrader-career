@@ -70,6 +70,24 @@ The contact files for now only include _front matter_.
 |xing| https://www.xing.com/... | xing profile url of the contact person | no |
 |linkedin| https://www.linkedin.com/... |linkedin profile url of the contact person | no |
 
+### translations
+
+In the folder `data/translations` to yaml files can be found one for English called `en.yml`
+and one for German called `de.yml`. The translations in those yaml file work in a key/ value pair, where the key 
+should exist in both files and the value is the translation for the respective language.  
+The translation currently doesn't support nested keys. So the yaml should only be one level.
+
+Good yaml
+```yaml
+someKey: and it's text
+``` 
+
+Bad yaml
+```yaml
+someKey:
+  badNesting: some text that can never be reached
+``` 
+
 ## Source
 
 Within the `src` folder all code to build the sinnerschrader-career page is located. It contains the following important files.
@@ -108,6 +126,17 @@ Currently the following file names/ paths are hardwired to the respective markdo
 The partials are not related to languages so if they need a special treatment for seperate languages they need to be
 provided twice with (for example) the language as a prefix.   
    
+### Helpers
+
+The following helpers exist
+
+*translate* to translate a key (as given in the translation yaml files) by language  
+
+Usage: `{{translate key language}}`  
+Example: `{{translate job.location job.language }}`
+
+
+  
 ### Data
 
 The following data are provided for the templates.
@@ -124,7 +153,6 @@ company: company as provided in the front matter
 ```
 * jobs: an array of all published jobs for the current language. For the properties see `_detail.html` template. 
 
-
 `template/**/_detail.html`:  
 
 The following data is provided for this template based on the current language and if the job is published.
@@ -132,8 +160,14 @@ The following data is provided for this template based on the current language a
 ```
 content: renderer html for the job,
 title: title of the job,
+description: description of the job,
 id: auto-generate 5 digit id (changes each compilation)
 date: date in the format yyyy-mm-dd
+language: language key
+location: location key
+discipline: discipline key
+company: company key
+level: level key
 contact.name: name of the contact person
 contact.level: level of the contact person
 contact.phone: phonenumber of the contact person
