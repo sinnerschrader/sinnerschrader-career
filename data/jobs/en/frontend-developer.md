@@ -1,10 +1,10 @@
 ---
     language: en
-    location: Hamburg
+    location: Fra
     discipline: Tech
     level: all
     company: SinnerSchrader
-    date: 2020-10-21
+    date: 2020-09-21
     published: true
     title: Frontend Developer (f/m/x)
     description: Some description

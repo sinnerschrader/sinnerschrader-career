@@ -136,6 +136,12 @@ Usage: `{{translate key language}}`
 Example: `{{translate job.location job.language }}`
 
 
+*convertDate* to convert a date object (as given from front-matters) into a string with the format `dd.mm.yyyy`.   
+_Hint:_ For front-matter to be a date object it needs to use the above mentioned format `yyyy-mm-dd`
+
+Usage: `{{convertDate date}}`  
+Example: `{{translate job.date }}`
+
   
 ### Data
 
