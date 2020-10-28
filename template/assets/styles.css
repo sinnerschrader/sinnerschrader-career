@@ -5,7 +5,7 @@
 }
 
 .jobs-row.open ~ tr{
-    display: initial;
+    display: table-row;
 }
 
 .jobs-row .svg-ico--arrow-down,
