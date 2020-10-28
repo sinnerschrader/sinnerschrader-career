@@ -84,16 +84,7 @@ export class Renderer {
       throw Error(' No data provided');
     }
 
-
-    console.info(chalk.green`Register translations...`);
-
-    Handlebars.registerHelper('translate', (key, lang) => {
-      if(this.translations[lang] && this.translations[lang][key]) {
-        return this.translations[lang][key]
-      }
-
-      return key;
-    });
+    this.registerHelpers();
 
     console.info(chalk.green`Rendering...`);
     this.partials.forEach(partial => {
@@ -154,5 +145,31 @@ export class Renderer {
       await copyFile(srcFile, targetFile);
     });
     console.info(chalk.white`Assets succesfully copied.`);
+  }
+
+  private registerHelpers() {
+
+    console.info(chalk.green`Register translations...`);
+
+    Handlebars.registerHelper('translate', (key, lang) => {
+      if(this.translations[lang] && this.translations[lang][key]) {
+        return this.translations[lang][key]
+      }
+
+      return key;
+    });
+
+    console.info(chalk.green`Register date...`);
+
+    Handlebars.registerHelper('convertDate', (date: Date) => {
+      let result = `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`;
+      try {
+        result = date.toISOString().split('T')[0].split('-').reverse().join('.');
+      }
+      catch (e) {
+        console.info(chalk.red`The attempt to convert ${date} failed. The fallback ${result} was used.`)
+      }
+      return result;
+    });
   }
 }
