@@ -1,7 +1,8 @@
 import chalk from 'chalk';
 import globby from 'globby';
-import {language} from 'gray-matter';
 import * as Handlebars from 'handlebars';
+import {Console} from 'inspector';
+import {Redirects} from './redirects';
 import {TemplateData} from './template-data.interface';
 import YAML from 'yaml';
 import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
@@ -10,6 +11,7 @@ export class Renderer {
 
   private compiledTemplates: { file: string, outputFile: string, content: string }[] = [];
   private readonly partialFolderName = 'partials';
+  private redirects: Redirects;
   private templates = [];
   private partials = [];
   private data;
@@ -70,6 +72,12 @@ export class Renderer {
     console.info(chalk.white`Template loading done.`);
   }
 
+  public async loadRedirects(file = 'redirects.json') {
+    console.info(chalk.white`Load redirects.json`);
+    const redirectsRaw = await readFile(file);
+    this.redirects = new Redirects(JSON.parse(redirectsRaw));
+  }
+
   public compile(data?: TemplateData[]) {
     this.data = data;
     if (this.data === undefined) {
@@ -128,6 +136,8 @@ export class Renderer {
       console.info(chalk.white`Succesful.`);
     });
     console.info(chalk.green`Writing done...`);
+
+    await this.redirects.createRedirects(outputDir);
   }
 
   public async copyAssets(assetsGlobString: string, outputDir: string) {

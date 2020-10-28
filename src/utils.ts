@@ -1,3 +1,4 @@
+import chalk from 'chalk';
 import fs from "fs";
 
 export async function asyncForEach<T>(arr: T[], callback: (T) => void) {
@@ -41,11 +42,15 @@ export function enforceFolder(folder: string | string[]) {
 
 export function writeFile(filePath: string, data: string): Promise<void> {
   return new Promise((resolve, reject) => {
-
     enforceFolder(filePath.split('/').slice(0, -1));  // remove last item as it is the file name
 
     fs.writeFile(filePath, data, (err: any) => {
-      err ? reject(err) : resolve();
+      if(err) {
+        console.error(chalk.redBright.bold`${filePath} failed to write`);
+        reject(err);
+      } else {
+        resolve();
+      }
     });
   });
 }

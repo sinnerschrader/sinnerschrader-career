@@ -88,6 +88,7 @@ async function main() {
   const renderer = new Renderer('template/**/*.html');
   await renderer.loadTranslations('data/translations/en.yml', 'data/translations/de.yml');
   await renderer.loadTemplates();
+  await renderer.loadRedirects();
   renderer.compile(data);
 
   await renderer.write('docs');
@@ -105,6 +106,7 @@ async function watchTemplates() {
   watch('template/', {recursive: true},async (evt, name) => {
     console.info(chalk.redBright`${name} changed.`);
     await renderer.loadTemplates();
+    await renderer.loadRedirects();
     await renderer.compile(data);
     await renderer.write('docs');
     await renderer.copyAssets('template/assets/**/*.*', 'docs');
