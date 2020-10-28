@@ -47,6 +47,6 @@ jobs:
           git config --global user.name "Martin Sonnenholzer (github/actions)"
 
           yarn build;
-          git add -f .;
+          git add -f docs/.;
           git commit -m"auto generated docs/";
           git push;
