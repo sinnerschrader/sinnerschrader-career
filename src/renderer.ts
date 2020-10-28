@@ -85,35 +85,16 @@ export class Renderer {
     }
 
     this.registerHelpers();
+    this.registerPartials();
 
     console.info(chalk.green`Rendering...`);
-    this.partials.forEach(partial => {
-      console.info(chalk.white`Register partial ${partial.partialName}.`);
-      Handlebars.registerPartial(partial.partialName, partial.source);
-    });
 
     this.templates
       .filter(it => !it.isPartial)
       .forEach((template) => {
-        // find data with the same template path
-        const dataForThisTemplate = this.data.find(it => it.template === template.file);
-
         console.info(chalk.white`Rendering "${template.file}"...`);
-        let compiledContent = '';
-        let outputFile = template.outputFile;
-        if (dataForThisTemplate !== undefined) {
-          compiledContent = template.template(dataForThisTemplate.data);
-          // TODO: title isn't the best option, maybe original filename, or a new field?
-          outputFile = outputFile.replace(/%s/g, normalize((dataForThisTemplate.data.title)));
-        } else {
-          compiledContent = template.template({});
-        }
-
-
-        this.compiledTemplates.push({
-          file: template.file,
-          outputFile,
-          content: compiledContent
+        this.data.filter(it => it.template === template.file).forEach(data => {
+          this.compileTemplate(data, template);
         });
       });
     console.info(chalk.green`Rendering done.`);
@@ -145,6 +126,31 @@ export class Renderer {
       await copyFile(srcFile, targetFile);
     });
     console.info(chalk.white`Assets succesfully copied.`);
+  }
+
+  private compileTemplate(data, template) {
+    let compiledContent = '';
+    let outputFile = template.outputFile;
+    if (data !== undefined) {
+      compiledContent = template.template(data.data);
+      // TODO: title isn't the best option, maybe original filename, or a new field?
+      outputFile = outputFile.replace(/%s/g, normalize((data.data.title)));
+    } else {
+      compiledContent = template.template({});
+    }
+
+    this.compiledTemplates.push({
+      file: template.file,
+      outputFile,
+      content: compiledContent
+    });
+  }
+
+  private registerPartials() {
+    this.partials.forEach(partial => {
+      console.info(chalk.white`Register partial ${partial.partialName}.`);
+      Handlebars.registerPartial(partial.partialName, partial.source);
+    });
   }
 
   private registerHelpers() {
