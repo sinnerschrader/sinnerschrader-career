@@ -1,0 +1,19 @@
+/* Attention: This overwrites the existing styles */
+
+.jobs-row ~ tr {
+    display: none;
+}
+
+.jobs-row.open ~ tr {
+    display: table-row;
+}
+
+.jobs-row .svg-ico--arrow-down,
+.jobs-row.open .svg-ico--arrow-up {
+    display: initial;
+}
+
+.jobs-row .svg-ico--arrow-up,
+.jobs-row.open .svg-ico--arrow-down {
+    display: none;
+}
