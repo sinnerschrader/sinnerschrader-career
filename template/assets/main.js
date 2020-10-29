@@ -60,6 +60,9 @@ function addFilter() {
             });
 
         hideJobs(filteredOutJobs);
+
+        // update js-job-counts
+        document.querySelector('.js-job-count').innerHTML = `${window.metaData.length - filteredOutJobs.length}`;
     }
 
     function addListeners(filter, querySelector) {
@@ -76,11 +79,42 @@ function addFilter() {
         });
     }
 
+    // init job count
+    document.querySelector('.js-job-count').innerHTML = `${window.metaData.length}`;
+
     addListeners('level', '.filter--level .filter-item');
     addListeners('discipline', '.filter--discipline .filter-item');
     addListeners('company', '.filter--company .filter-item');
     addListeners('location', '.filter--location .filter-item');
 }
 
+function addFilterAccordionListener() {
+
+    function closeAllLabels() {
+        const elements = document.querySelectorAll('.filter-label');
+        elements.forEach(element => {
+           element.parentElement.classList.remove('is-open');
+        });
+    }
+
+    function addListener(filter) {
+        const element = document.querySelector(filter);
+        element.addEventListener('click', (event) => {
+           if (element.parentElement.classList.contains('is-open')) {
+               element.parentElement.classList.remove('is-open');
+           } else {
+               closeAllLabels();
+               element.parentElement.classList.add('is-open');
+           }
+        });
+    }
+
+    addListener('.filter--level .filter-label');
+    addListener('.filter--discipline .filter-label');
+    addListener('.filter--company .filter-label');
+    addListener('.filter--location .filter-label');
+}
+
 addAccordionListener();
 addFilter();
+addFilterAccordionListener();
