@@ -7,6 +7,11 @@ import {TemplateData} from './template-data.interface';
 import YAML from 'yaml';
 import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
 
+export function detailNameBuilder(data, template): string {
+  // TODO: title isn't the best option, maybe original filename, or a new field?
+  return template.outputFile.replace(/%s/g, normalize((data.data.title)));
+}
+
 export class Renderer {
 
   private compiledTemplates: { file: string, outputFile: string, content: string }[] = [];
@@ -14,7 +19,7 @@ export class Renderer {
   private redirects: Redirects;
   private templates = [];
   private partials = [];
-  private data;
+  private data: TemplateData[];
   private baseHref: string;
   private translations = {
     en: {},
@@ -49,14 +54,13 @@ export class Renderer {
       const isPartial = fileSegments.includes(this.partialFolderName);
       let outputFile = '';
       if (!isPartial) {
+        // if file name starts with _ use old path without file name and replace file-name with %s
+        // else remove /template/ from path
         fileSegments.shift();
-        // TODO: What if it's not the file name that needs to be dynamic, but a segment of the url?
         if (fileSegments[fileSegments.length - 1].startsWith('_')) {
           fileSegments[fileSegments.length - 1] = '%s.html';
         }
         outputFile = fileSegments.join('/');
-        // if file name starts with _ use old path without file name and replace file-name with %s
-        // else remove /template/ from path
         const template = Handlebars.compile(source);
 
         this.templates.push({
@@ -136,8 +140,7 @@ export class Renderer {
     let outputFile = template.outputFile;
     if (data !== undefined) {
       compiledContent = template.template({...data.data, baseHref: this.baseHref});
-      // TODO: title isn't the best option, maybe original filename, or a new field?
-      outputFile = outputFile.replace(/%s/g, normalize((data.data.title)));
+      outputFile = detailNameBuilder(data, template); // outputFile.replace(/%s/g, normalize((data.data.title)));
     } else {
       compiledContent = template.template({baseHref: this.baseHref});
     }
@@ -179,6 +182,22 @@ export class Renderer {
         console.info(chalk.red`The attempt to convert ${date} failed. The fallback ${result} was used.`)
       }
       return result;
+    });
+
+
+    console.info(chalk.green`Register detail page url builder...`);
+
+    Handlebars.registerHelper('detailUrl', (jobId: string) => {
+      // find job data based on id
+      const jobData = this.data.find(it =>  it.data.id === jobId);
+      if(jobData) {
+        const template = this.templates.find(it => it.file === jobData.template);
+        if(template) {
+          return detailNameBuilder(jobData, template);
+        }
+      }
+
+      return '#';
     });
   }
 }
