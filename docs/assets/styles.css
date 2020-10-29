@@ -4,16 +4,20 @@
     display: none;
 }
 
-.jobs-row.open ~ tr {
+.jobs-row.is-open ~ tr {
     display: table-row;
 }
 
 .jobs-row .svg-ico--arrow-down,
-.jobs-row.open .svg-ico--arrow-up {
+.jobs-row.is-open .svg-ico--arrow-up {
     display: initial;
 }
 
 .jobs-row .svg-ico--arrow-up,
-.jobs-row.open .svg-ico--arrow-down {
+.jobs-row.is-open .svg-ico--arrow-down {
+    display: none;
+}
+
+.is-hidden {
     display: none;
 }
