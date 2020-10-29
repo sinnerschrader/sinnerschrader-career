@@ -1,4 +1,25 @@
-<div>
-    <h3>{{{title}}}</h3>
-    <p>{{{content}}}</p>
+<!DOCTYPE html>
+<html lang="de">
+{{>head baseHref=baseHref pageTitle=title pageDesc="some description" lang="de"}}
+<body data-theme="green">
+{{>svgsprite}}
+<div class="container">
+    {{>header lang="de"}}
+    <main class="main ">
+        <section class="mod-jobsdetail">
+            <header class="article-header">
+                <h3 class="h3">{{title}}</h3>
+                <time class="scopy">{{convertDate date}}</time>
+            </header>
+            <section class="article-body">
+                {{{content}}}
+            </section>
+            {{>contact contact=contact lang="de"}}
+        </section>
+        {{>location lang="de"}}
+    </main>
+    {{>enFooter}}
+<!--    TODO: deFooter -->
 </div>
+</body>
+</html>

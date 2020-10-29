@@ -1,21 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>DE Title</title>
-</head>
-<body>
-<h1>{{headline}}</h1> DE
-HELLO World
-<div>
-    {{#jobs}}
-    {{>deJobDetail job=.}}
-    {{/jobs}}
-
+<html lang="de">
+{{>head baseHref=baseHref pageTitle="SinnerSchrader Jobs - de Title" pageDesc="some description" lang="de"}}
+<body data-theme="green">
+{{>svgsprite}}
+<div class="container">
+    {{>header lang="de"}}
+    <main class="main">
+        {{>enHero}}
+<!--        TODO: deHero-->
+        {{>filter lang="de"}}
+        <section class="mod-jobslist">
+            <table>
+                {{>columnHeader lang="de"}}
+                {{#jobs}}
+                {{>listJobDetail job=.}}
+                {{/jobs}}
+            </table>
+        </section>
+        {{>location lang="de"}}
+    </main>
+    {{>enFooter}}
 </div>
 
 <script>
-    const metaData = {{{metaInfos}}};
+    window.metaData = {{{metaInfos}}};
 </script>
+<script src="./assets/main.js"></script>
 </body>
 </html>

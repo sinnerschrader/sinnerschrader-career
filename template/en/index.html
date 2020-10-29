@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-    {{>head baseHref=baseHref}}
+    {{>head baseHref=baseHref pageTitle="SinnerSchrader Jobs - EN Title" pageDesc="some description" lang="en"}}
     <body data-theme="green">
         {{>svgsprite}}
         <div class="container">
-            {{>header}}
+            {{>header lang="en"}}
             <main class="main">
-                {{>hero}}
-                {{>filter}}
+                {{>enHero}}
+                {{>filter lang="en"}}
                 <section class="mod-jobslist">
                     <table>
-                        {{>columnHeader}}
+                        {{>columnHeader lang="en"}}
                         {{#jobs}}
-                            {{>enJobDetail job=.}}
+                            {{>listJobDetail job=.}}
                         {{/jobs}}
                     </table>
                 </section>
-                {{>location}}
+                {{>location lang="en"}}
             </main>
-            {{>footer}}
+            {{>enFooter}}
         </div>
 
         <script>
