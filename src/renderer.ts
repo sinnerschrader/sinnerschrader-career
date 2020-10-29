@@ -15,6 +15,7 @@ export class Renderer {
   private templates = [];
   private partials = [];
   private data;
+  private baseHref: string;
   private translations = {
     en: {},
     de: {}
@@ -78,8 +79,9 @@ export class Renderer {
     this.redirects = new Redirects(JSON.parse(redirectsRaw));
   }
 
-  public compile(data?: TemplateData[]) {
+  public compile(data: TemplateData[], baseHref: string) {
     this.data = data;
+    this.baseHref = baseHref ? baseHref : '';
     if (this.data === undefined) {
       throw Error(' No data provided');
     }
@@ -94,6 +96,7 @@ export class Renderer {
       .forEach((template) => {
         console.info(chalk.white`Rendering "${template.file}"...`);
         this.data.filter(it => it.template === template.file).forEach(data => {
+
           this.compileTemplate(data, template);
         });
       });
@@ -132,11 +135,11 @@ export class Renderer {
     let compiledContent = '';
     let outputFile = template.outputFile;
     if (data !== undefined) {
-      compiledContent = template.template(data.data);
+      compiledContent = template.template({...data.data, baseHref: this.baseHref});
       // TODO: title isn't the best option, maybe original filename, or a new field?
       outputFile = outputFile.replace(/%s/g, normalize((data.data.title)));
     } else {
-      compiledContent = template.template({});
+      compiledContent = template.template({baseHref: this.baseHref});
     }
 
     this.compiledTemplates.push({
