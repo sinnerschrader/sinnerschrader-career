@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    {{>head}}
+    {{>head baseHref=baseHref}}
     <body data-theme="green">
         {{>svgsprite}}
         <div class="container">
@@ -24,6 +24,6 @@
         <script>
             window.metaData = {{{metaInfos}}};
         </script>
-        <script src="../assets/main.js"></script>
+        <script src="./assets/main.js"></script>
     </body>
 </html>

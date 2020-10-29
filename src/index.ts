@@ -5,7 +5,8 @@ import {Job} from './job.class';
 import {Jobs} from './jobs';
 import {Renderer} from './renderer';
 import {TemplateData} from './template-data.interface';
-import watch from 'node-watch';
+import handler from 'serve-handler';
+import http from 'http';
 
 function transformContact(contact: Contact) {
   if (contact === undefined) {
@@ -83,44 +84,42 @@ async function collectMarkdown() {
   return [germanData, englishData, ...germanDetailData, ...englishDetailData];
 }
 
-async function main() {
+async function main(baseHref: string) {
   const data = await collectMarkdown();
   const renderer = new Renderer('template/**/*.html');
   await renderer.loadTranslations('data/translations/en.yml', 'data/translations/de.yml');
   await renderer.loadTemplates();
   await renderer.loadRedirects();
-  renderer.compile(data);
+  renderer.compile(data, baseHref);
 
   await renderer.write('docs');
   await renderer.copyAssets('template/assets/**/*.*', 'docs');
 
-  console.info(chalk.green`Done`);
+  console.info(chalk.green`Build done`);
   return {renderer, data};
 }
 
-async function watchTemplates() {
-  // The watch mode is not sophisticated yet. It works and as long as the project size isn't to big it works
-  // just fine. We want to keep it simple
-  const {renderer, data} = await main();
-  console.info(chalk.green`Start watching 'template/`);
-  watch('template/', {recursive: true},async (evt, name) => {
-    console.info(chalk.redBright`${name} changed.`);
-    await renderer.loadTemplates();
-    await renderer.loadRedirects();
-    await renderer.compile(data);
-    await renderer.write('docs');
-    await renderer.copyAssets('template/assets/**/*.*', 'docs');
-    console.info(chalk.green`Keep watching 'template/`);
+async function serve(baseHref: string) {
+  await main(baseHref);
+  console.info(chalk.green`Start serving...`);
+
+  const server = http.createServer((request, response) => {
+    return handler(request, response);
   });
+
+  server.listen(3000, () => {
+    console.log('Running at http://localhost:3000/docs/en/');
+  });
+
 
 }
 
 switch (process.argv[2]) {
-  case 'watch':
-    watchTemplates();
+  case 'serve':
+    serve('http://localhost:3000/docs/');
     break;
   case 'build':
   default:
-    main();
+    main(process.argv[3]);
     break;
 }
