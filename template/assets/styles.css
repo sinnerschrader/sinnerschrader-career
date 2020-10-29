@@ -17,3 +17,7 @@
 .jobs-row.open .svg-ico--arrow-down {
     display: none;
 }
+
+.is-hidden {
+    display: none;
+}

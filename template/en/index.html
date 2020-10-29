@@ -7,6 +7,7 @@
             {{>header}}
             <main class="main">
                 {{>hero}}
+                {{>filter}}
                 <section class="mod-jobslist">
                     <table>
                         {{>columnHeader}}
@@ -21,7 +22,7 @@
         </div>
 
         <script>
-            const metaData = {{{metaInfos}}};
+            window.metaData = {{{metaInfos}}};
         </script>
         <script src="../assets/main.js"></script>
     </body>
