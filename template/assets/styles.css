@@ -21,3 +21,11 @@
 .is-hidden {
     display: none;
 }
+
+.mod-jobsdetail .article-body h2:first-child {
+    margin-top: 0;
+}
+
+.aside .copy {
+    margin-bottom: 60px;
+}
