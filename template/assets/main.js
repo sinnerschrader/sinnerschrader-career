@@ -6,23 +6,23 @@ window.filterOptions = {
 };
 
 function addAccordionListener() {
-    const rows = document.querySelectorAll('.jobs-row');
+    const rows = document.querySelectorAll('.js-jobs-row');
 
     function closeRows(rows) {
         rows.forEach(row => {
-            row.classList.remove('open');
+            row.classList.remove('is-open');
         });
     }
 
     rows.forEach(row => {
         row.addEventListener('click', () => {
-            if (row.classList.contains('open')) {
-                row.classList.remove('open');
+            if (row.classList.contains('is-open')) {
+                row.classList.remove('is-open');
             } else {
                 // close all rows
                 closeRows(rows);
                 // open this one
-                row.classList.add('open');
+                row.classList.add('is-open');
             }
         });
     });
@@ -36,7 +36,7 @@ function addFilter() {
     }
 
     function hideJobs(filteredJobs) {
-        const jobElements = document.querySelectorAll('[id^="job-"]');
+        const jobElements = document.querySelectorAll('.js-job');
         jobElements.forEach(element => {
             const isHidden = !!filteredJobs.find(it => {
                 return element.id === `job-${it.id}`;
@@ -82,16 +82,16 @@ function addFilter() {
     // init job count
     document.querySelector('.js-job-count').innerHTML = `${window.metaData.length}`;
 
-    addListeners('level', '.filter--level .filter-item');
-    addListeners('discipline', '.filter--discipline .filter-item');
-    addListeners('company', '.filter--company .filter-item');
-    addListeners('location', '.filter--location .filter-item');
+    addListeners('level', '.js-filter--level .js-filter-item');
+    addListeners('discipline', '.js-filter--discipline .js-filter-item');
+    addListeners('company', '.js-filter--company .js-filter-item');
+    addListeners('location', '.js-filter--location .js-filter-item');
 }
 
 function addFilterAccordionListener() {
 
     function closeAllLabels() {
-        const elements = document.querySelectorAll('.filter-label');
+        const elements = document.querySelectorAll('.js-filter-label');
         elements.forEach(element => {
            element.parentElement.classList.remove('is-open');
         });
@@ -109,10 +109,10 @@ function addFilterAccordionListener() {
         });
     }
 
-    addListener('.filter--level .filter-label');
-    addListener('.filter--discipline .filter-label');
-    addListener('.filter--company .filter-label');
-    addListener('.filter--location .filter-label');
+    addListener('.js-filter--level .js-filter-label');
+    addListener('.js-filter--discipline .js-filter-label');
+    addListener('.js-filter--company .js-filter-label');
+    addListener('.js-filter--location .js-filter-label');
 }
 
 addAccordionListener();
