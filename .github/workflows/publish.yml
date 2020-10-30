@@ -40,12 +40,10 @@ jobs:
         run: yarn --frozen-lockfile
 
       - name: build SinnerSchrader career page
-        env:
-          S2_BOT: ${{ secrets.S2_BOT }}
         run: |
           run: |
-          git config --global user.email "s2-github-bot@sinnerschrader.com"
-          git config --global user.name "s2-github-bot"
+          git config --global user.email "felicitas.kugland@sinnerschrader.com"
+          git config --global user.name "kotzendekrabbe"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
           git add -f docs/.;
           git commit -m "auto generated docs/";
