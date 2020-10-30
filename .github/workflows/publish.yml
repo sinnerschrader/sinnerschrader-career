@@ -46,7 +46,7 @@ jobs:
           git config --global user.email "martin.sonnenholzer@sinnerschrader.com"
           git config --global user.name "Martin Sonnenholzer (github/actions)"
 
-          yarn build "https://sinnerschrader.github.io/sinnerschrader-career";
+          yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
           git add -f docs/.;
           git commit -m"auto generated docs/";
           git push;

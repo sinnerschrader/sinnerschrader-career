@@ -1,27 +1,31 @@
 <aside class="aside">
-    <h4 class="h4">Contact person</h4>
+    <h4 class="h4">{{translate "contactTitle" lang}}</h4>
+    <p class="copy">
+        {{contact.name}}
+    </p>
+    <h4 class="h4">{{translate "contactSendTo" lang}}</h4>
     <p class="copy">
         {{contact.name}}
         <br> {{contact.level}}
         <br> {{contact.phone}}
         <br>
         <span class="socialperson">
-            <a href="mailto:jobs@sinnerschrader.com">Mail</a>
+            <a href="mailto:jobs@sinnerschrader.com">{{translate "contactMail" lang}}</a>
         </span>
 
         {{#if contact.xing}}
         | <span class="socialperson">
-            <a href="{{contact.xing}}">Xing</a>
-        </span> 
+            <a href="{{contact.xing}}">{{translate "contactXing" lang}}</a>
+        </span>
         {{/if}}
         {{#if contact.linkedin}}
         | <span class="socialperson">
-            <a href="{{contact.linkedin}}">LinkedIn</a>
+            <a href="{{contact.linkedin}}">{{translate "contactLinkedIn" lang}}</a>
         </span>
         {{/if}}
     </p>
-    
-    <div>Share this job via</div>
+
+    <div>{{translate "contactShare" lang}}</div>
     <ul class="socialmedia">
         <li>
             <a href="https://www.xing.com/app/user" target="_blank" rel="noopener noreferrer">
