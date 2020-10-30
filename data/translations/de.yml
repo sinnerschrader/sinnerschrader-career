@@ -33,6 +33,7 @@ filterFra: Frankfurt/Main
 columnHeaderJobs: Jobs
 columnHeaderEntries: Einträge
 locationLocation: Locations
+inclusion: (w/m/x/-)
 contactTitle: Dein Ansprechpartner
 contactMail: Mail
 contactXing: Xing
