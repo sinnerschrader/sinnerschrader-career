@@ -3,7 +3,6 @@
     location: Ham
     discipline: Creative
     level: Internships
-    company: Swipe
     date: 2020-10-23
     published: true
     title: Intern UX/UI Design (f/m/x)

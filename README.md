@@ -38,7 +38,6 @@ A job markdown always has to inlcude a front matter with the following informati
 |location | `Ber`/ `Fra`/ `Ham`/ `Muc` / `Pra` | Short key for the location the job will be located at | yes |
 |discipline | `Account`/ `Creative`/ `Strategy`/ `Tech`| This key is to provide the information for the discipline | yes |
 |level | `Internships`/ `Professionals`/ `Students`/ `Young Professionals` | What level of professionality is searched for | yes |
-|company | `SinnerSchrader`/ `Swipe`/ `Commerce`/ `Content` | TODO: do we need this? | maybe |
 |date | example `2020-10-21` | The date this job post was published (it will not be auto published) the format is year - month (always two digits) - day (always to digits)| maybe |
 |published | `true`/ `false` | This flag defines if the job post will be published or not | yes |
 |title | Text | The title shown for this job post, it will also be used for social sharing | yes |
@@ -155,7 +154,6 @@ id: auto-generate 5 digit id (changes each compilation)
 location: location as provided in the front matter
 discipline: discipline as provided in the front matter
 level: level as provided in the front matter
-company: company as provided in the front matter   
 ```
 * jobs: an array of all published jobs for the current language. For the properties see `_detail.html` template. 
 
@@ -172,7 +170,6 @@ date: date in the format yyyy-mm-dd
 language: language key
 location: location key
 discipline: discipline key
-company: company key
 level: level key
 contact.name: name of the contact person
 contact.level: level of the contact person

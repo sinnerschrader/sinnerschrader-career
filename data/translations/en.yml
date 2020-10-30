@@ -27,7 +27,6 @@ navNews: News
 filterAll: All
 filterLevel: Level
 filterDiscipline: Discipline
-filterCompany: Company
 filterLocation: Location
 filterFra: Frankfurt
 columnHeaderJobs: Jobs

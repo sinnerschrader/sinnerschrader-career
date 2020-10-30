@@ -42,8 +42,7 @@ export class Jobs {
           id: item.id,
           location: item.location,
           discipline: item.discipline,
-          level: item.level,
-          company: item.company
+          level: item.level
         }
     });
   }
