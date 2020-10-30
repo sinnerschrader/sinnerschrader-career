@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2020-10-29
     published: true
-    title: ReactJS Developer (f/m/x)
+    title: ReactJS Developer
     description: 
     contact: victoria
 ---
@@ -20,3 +20,4 @@ In addition to project work, we enjoy swapping ideas on the latest themes with o
 Have we sparked your interest? Then please get in touch.
 
 For more information: [@s2engineers](https://twitter.com/s2engineers)
+
