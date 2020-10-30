@@ -32,6 +32,7 @@ filterFra: Frankfurt
 columnHeaderJobs: Jobs
 columnHeaderEntries: Entries
 locationLocation: Locations
+inclusion: (f/m/d/-)
 contactTitle: Contact person
 contactMail: Mail
 contactXing: Xing
