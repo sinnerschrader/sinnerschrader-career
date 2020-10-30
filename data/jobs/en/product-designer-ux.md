@@ -3,7 +3,6 @@
     location: Ber
     discipline: Creative
     level: all
-    company: SinnerSchrader
     date: 2020-11-01
     published: true
     title: Product Designer UX (f/m/x)

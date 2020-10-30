@@ -3,7 +3,6 @@
     location: Pra
     discipline: Account
     level: Professionals
-    company: SinnerSchrader
     date: 2019-07-08
     published: true
     title: Product Owner (f/m/x)

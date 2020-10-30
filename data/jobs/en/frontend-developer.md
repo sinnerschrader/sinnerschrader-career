@@ -3,7 +3,6 @@
     location: Fra
     discipline: Tech
     level: all
-    company: SinnerSchrader
     date: 2020-09-21
     published: true
     title: Frontend Developer (f/m/x)

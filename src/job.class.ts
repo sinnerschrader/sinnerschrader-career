@@ -13,7 +13,6 @@ export class Job {
   public location: string;
   public discipline: string;
   public level: string;
-  public company: string;
   public published: boolean;
   public contact: Contact;
   public date: string;
@@ -36,7 +35,6 @@ export class Job {
     this.location = data.data.location;
     this.discipline = data.data.discipline;
     this.level = data.data.level;
-    this.company = data.data.company;
     this.date = data.data.date;
     this.title = data.data.title;
     this.description = data.data.description;
