@@ -8,8 +8,7 @@ import YAML from 'yaml';
 import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
 
 export function detailNameBuilder(data, template): string {
-  // TODO: title isn't the best option, maybe original filename, or a new field?
-  return template.outputFile.replace(/%s/g, normalize((data.data.title)));
+  return template.outputFile.replace(/%s/g, normalize(`${data.data.title} ${data.data.location}`));
 }
 
 export class Renderer {
