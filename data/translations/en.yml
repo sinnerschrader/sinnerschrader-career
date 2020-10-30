@@ -14,6 +14,7 @@ Young Professionals: Young Professionals
 SinnerSchrader: SinnerSchrader
 Swipe: SinnerSchrader Swipe
 Commerce: SinnerSchrader Commerce
+Content: SinnerSchrader Content
 navAbout: About
 navWhy: Why us
 navHow: How we work
@@ -29,8 +30,10 @@ filterDiscipline: Discipline
 filterCompany: Company
 filterLocation: Location
 columnHeaderJobs: Jobs
+columnHeaderEntries: Entries
 locationLocation: Locations
 contactTitle: Contact person
 contactXing: Xing
 contactLinkedIn: LinkedIn
-contactShare: Share this job via
+contactSendTo: Send your application to via
+contactShare: Share this job
