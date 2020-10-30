@@ -45,7 +45,7 @@ jobs:
         run: |
           run: |
           git config --global user.email "s2-github-bot@sinnerschrader.com"
-          git config --global user.name "S2 Engineers"
+          git config --global user.name "s2-github-bot"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
           git add -f docs/.;
           git commit -m "auto generated docs/";
