@@ -1,7 +1,8 @@
 <tbody id="job-{{job.id}}" class="js-job">
     <tr class="js-jobs-row jobs-row">
         <td class="cell-mobile">
-            <a href="#">
+            <a href="./{{detailUrl job.id}}">
+
                 <div>{{ translate job.company job.language}}</div>
                 <div class="strong">{{job.title}}</div>
                 <div>{{ translate job.location job.language }}</div>
@@ -25,7 +26,7 @@
                         {{{job.content}}}
                     </div>
                 </section>
-                {{>contact contact=job.contact lang= job.language }}
+                {{>contact contact=job.contact jobId=job.id lang=job.language}}
             </section>
         </td>
     </tr>
