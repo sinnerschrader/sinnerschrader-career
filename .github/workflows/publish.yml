@@ -44,6 +44,3 @@ jobs:
           FELIS_SECRET: ${{ secrets.FELIS_SECRET }}
         run: |
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
-          git add docs/.;
-          git commit -m "auto generated docs/";
-          git push;
