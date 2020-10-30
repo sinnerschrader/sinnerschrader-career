@@ -41,12 +41,12 @@ jobs:
 
       - name: build SinnerSchrader career page
         env:
-          FELIS_SECRET: ${{ secrets.FELIS_SECRET }}
+          S2_BOT: ${{ secrets.S2_BOT }}
         run: |
           run: |
           git config --global user.email "s2-github-bot@sinnerschrader.com"
           git config --global user.name "S2 Engineers"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
           git add -f docs/.;
-          git commit -m"auto generated docs/";
+          git commit -m "auto generated docs/";
           git push;
