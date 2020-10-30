@@ -26,6 +26,9 @@
     margin-top: 0;
 }
 
-.aside .copy {
-    margin-bottom: 60px;
+@media screen and (min-width:1024px) {
+    .mod-jobsfilter .filter--discipline,
+    .mod-jobslist .jobs--area {
+        width: 250px;
+    }
 }
