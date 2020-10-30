@@ -4,7 +4,7 @@
     <body data-theme="green">
         {{>svgsprite}}
         <div class="container">
-            {{>header lang="en"}}
+            {{>header lang="en" jobId=id}}
             <main class="main ">
                     <section class="mod-jobsdetail">
                         <header class="article-header">
@@ -14,7 +14,7 @@
                             <section class="article-body">
                                 {{{content}}}
                             </section>
-                            {{>contact contact=contact lang="en"}}
+                            {{>contact contact=contact jobId=id lang="en"}}
                     </section>
                 {{>location lang="en"}}
             </main>

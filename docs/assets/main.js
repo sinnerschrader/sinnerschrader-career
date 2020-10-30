@@ -1,7 +1,6 @@
 window.filterOptions = {
     level: 'All',
     discipline: 'All',
-    company: 'All',
     location: 'All'
 };
 
@@ -55,7 +54,6 @@ function addFilter() {
             .filter(it => {
                 return (window.filterOptions.level !== 'All' && it.level !== window.filterOptions.level) ||
                     (window.filterOptions.discipline !== 'All' && it.discipline !== window.filterOptions.discipline) ||
-                    (window.filterOptions.company !== 'All' && it.company !== window.filterOptions.company) ||
                     (window.filterOptions.location !== 'All' && it.location !== window.filterOptions.location);
             });
 
@@ -84,7 +82,6 @@ function addFilter() {
 
     addListeners('level', '.js-filter--level .js-filter-item');
     addListeners('discipline', '.js-filter--discipline .js-filter-item');
-    addListeners('company', '.js-filter--company .js-filter-item');
     addListeners('location', '.js-filter--location .js-filter-item');
 }
 
@@ -111,7 +108,6 @@ function addFilterAccordionListener() {
 
     addListener('.js-filter--level .js-filter-label');
     addListener('.js-filter--discipline .js-filter-label');
-    addListener('.js-filter--company .js-filter-label');
     addListener('.js-filter--location .js-filter-label');
 }
 

@@ -1,22 +1,21 @@
 <tbody id="job-{{job.id}}" class="js-job">
     <tr class="js-jobs-row jobs-row">
         <td class="cell-mobile">
-            <a href="#">
-                <div>{{ translate job.company job.language}}</div>
+            <a href="./{{detailUrl job.id}}">
+
                 <div class="strong">{{job.title}}</div>
                 <div>{{ translate job.location job.language }}</div>
             </a>
         </td>
         <td class="jobs--title">{{job.title}}</td>
         <td class="jobs--area">{{ translate job.discipline job.language }}</td>
-        <td class="jobs--company">{{ translate job.company job.language}}</td>
         <td class="jobs--location">{{ translate job.location job.language }}
             <svg class="svg-ico svg-ico--arrow-down"><use xlink:href="#arrow-down"></use></svg>
             <svg class="svg-ico svg-ico--arrow-up"><use xlink:href="#arrow-down"></use></svg>
         </td>
     </tr>
     <tr>
-        <td colspan="5">
+        <td colspan="4">
             <section class="mod-jobsdetail is-inner">
                 <section class="article-body">
                     <h2>{{job.title}}</h2>
@@ -25,7 +24,7 @@
                         {{{job.content}}}
                     </div>
                 </section>
-                {{>contact contact=job.contact lang= job.language }}
+                {{>contact contact=job.contact jobId=job.id lang=job.language}}
             </section>
         </td>
     </tr>

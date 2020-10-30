@@ -30,7 +30,6 @@ function transformJob(job: Job): { [key: string]: string | { [key: string]: stri
     language: job.language,
     discipline: job.discipline,
     location: job.location,
-    company: job.company,
     description: job.description,
     id: job.id,
     date: job.date,
