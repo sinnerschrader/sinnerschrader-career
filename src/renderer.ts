@@ -1,14 +1,18 @@
 import chalk from 'chalk';
 import globby from 'globby';
 import * as Handlebars from 'handlebars';
-import {Console} from 'inspector';
+import YAML from 'yaml';
 import {Redirects} from './redirects';
 import {TemplateData} from './template-data.interface';
-import YAML from 'yaml';
 import {asyncForEach, camelize, copyFile, normalize, readFile, writeFile} from './utils';
 
+
+export function detailUrlName(data) {
+  return normalize(`${data.data.title} ${data.data.location}`);
+}
+
 export function detailNameBuilder(data, template): string {
-  return template.outputFile.replace(/%s/g, normalize(`${data.data.title} ${data.data.location}`));
+  return template.outputFile.replace(/%s/g, detailUrlName(data));
 }
 
 export class Renderer {
@@ -163,7 +167,7 @@ export class Renderer {
     console.info(chalk.green`Register translations...`);
 
     Handlebars.registerHelper('translate', (key, lang) => {
-      if(this.translations[lang] && this.translations[lang][key]) {
+      if (this.translations[lang] && this.translations[lang][key]) {
         return this.translations[lang][key]
       }
 
@@ -176,28 +180,44 @@ export class Renderer {
       let result = `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`;
       try {
         result = date.toISOString().split('T')[0].split('-').reverse().join('.');
-      }
-      catch (e) {
+      } catch (e) {
         console.info(chalk.red`The attempt to convert ${date} failed. The fallback ${result} was used.`)
       }
       return result;
     });
-
 
     console.info(chalk.green`Register detail page url builder...`);
 
     Handlebars.registerHelper('detailUrl', (jobId: string) => {
       // find job data based on id
       if (jobId !== undefined) {
-        const jobData = this.data.find(it =>  it.data.id === jobId);
-        if(jobData) {
+        const jobData = this.data.find(it => it.data.id === jobId);
+        if (jobData) {
           const template = this.templates.find(it => it.file === jobData.template);
-          if(template) {
+          if (template) {
             return detailNameBuilder(jobData, template);
           }
         }
       }
       return '#';
+    });
+
+
+    Handlebars.registerHelper('detailUrlTitle', (jobId: string) => {
+      // find job data based on id
+      if (jobId !== undefined) {
+        const jobData = this.data.find(it => it.data.id === jobId);
+        if (jobData) {
+          return detailUrlName(jobData);
+        }
+      }
+      return '#';
+    });
+
+    console.info(chalk.green`Register if equal helper...`);
+
+    Handlebars.registerHelper('ifEquals', function (arg1, arg2, options) {
+      return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
     });
   }
 }
