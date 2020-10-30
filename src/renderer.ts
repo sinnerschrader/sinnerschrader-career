@@ -188,14 +188,15 @@ export class Renderer {
 
     Handlebars.registerHelper('detailUrl', (jobId: string) => {
       // find job data based on id
-      const jobData = this.data.find(it =>  it.data.id === jobId);
-      if(jobData) {
-        const template = this.templates.find(it => it.file === jobData.template);
-        if(template) {
-          return detailNameBuilder(jobData, template);
+      if (jobId !== undefined) {
+        const jobData = this.data.find(it =>  it.data.id === jobId);
+        if(jobData) {
+          const template = this.templates.find(it => it.file === jobData.template);
+          if(template) {
+            return detailNameBuilder(jobData, template);
+          }
         }
       }
-
       return '#';
     });
   }
