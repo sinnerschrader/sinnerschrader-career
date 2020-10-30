@@ -29,6 +29,7 @@ filterLevel: Level
 filterDiscipline: Discipline
 filterCompany: Company
 filterLocation: Location
+filterFra: Frankfurt
 columnHeaderJobs: Jobs
 columnHeaderEntries: Entries
 locationLocation: Locations

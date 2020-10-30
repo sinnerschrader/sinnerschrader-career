@@ -1,5 +1,5 @@
 Ber: Berlin
-Fra: Frankfurt/Main
+Fra: Frankfurt
 Ham: Hamburg
 Pra: Prag
 Muc: München
@@ -29,6 +29,7 @@ filterLevel: Level
 filterDiscipline: Disziplin
 filterCompany: Unternehmen
 filterLocation: Standort
+filterFra: Frankfurt/Main
 columnHeaderJobs: Jobs
 columnHeaderEntries: Einträge
 locationLocation: Locations
