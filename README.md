@@ -38,7 +38,7 @@ A job markdown always has to inlcude a front matter with the following informati
 |location | `Ber`/ `Fra`/ `Ham`/ `Muc` / `Pra` | Short key for the location the job will be located at | yes |
 |discipline | `Account`/ `Creative`/ `Strategy`/ `Tech`| This key is to provide the information for the discipline | yes |
 |level | `Internships`/ `Professionals`/ `Students`/ `Young Professionals` | What level of professionality is searched for | yes |
-|company | `SinnerSchrader`/ `Swipe`/ `Commerce` | TODO: do we need this? | maybe |
+|company | `SinnerSchrader`/ `Swipe`/ `Commerce`/ `Content` | TODO: do we need this? | maybe |
 |date | example `2020-10-21` | The date this job post was published (it will not be auto published) the format is year - month (always two digits) - day (always to digits)| maybe |
 |published | `true`/ `false` | This flag defines if the job post will be published or not | yes |
 |title | Text | The title shown for this job post, it will also be used for social sharing | yes |
