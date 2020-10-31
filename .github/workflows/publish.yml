@@ -37,13 +37,23 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Install
-        run: yarn --frozen-lockfile
-
-      - name: build SinnerSchrader career page
         run: |
-          git config --global user.email "s2-github-bot@sinnerschrader.com"
-          git config --global user.name "s2-github-bot"
+          yarn --frozen-lockfile
+          
+          echo "actor ${ github.actor } "
+          echo "name ${ GH_USERNAME } "
+    
+      - name: Commit files
+        run: |
+          git config --global user.email "${GH_USERNAME}@users.noreply.github.com"
+          git config --global user.name "${GH_USERNAME}"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
           git add -f docs/.;
           git commit -m "auto generated docs/";
+      - name: Push changes
+        run:  |
           git push;
+        env:
+          GITHUB_TOKEN: ${{ github.actor }}
+          REPOSITORY_URL: "https://github.com/sinnerschrader/sinnerschrader-career/"
+       
