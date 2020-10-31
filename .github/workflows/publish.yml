@@ -2,7 +2,7 @@ name: Build career page
 on:
   push:
     branches:
-      - main
+      - gh-pages
   workflow_dispatch:
 jobs:
   deploy-career:
@@ -42,8 +42,8 @@ jobs:
       - name: build SinnerSchrader career page
         run: |
           run: |
-          git config --global user.email "felicitas.kugland@sinnerschrader.com"
-          git config --global user.name "kotzendekrabbe"
+          git config --global user.email "s2-github-bot@sinnerschrader.com"
+          git config --global user.name "s2-github-bot"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
           git add -f docs/.;
           git commit -m "auto generated docs/";
