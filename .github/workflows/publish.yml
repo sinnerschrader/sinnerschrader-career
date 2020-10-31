@@ -41,7 +41,6 @@ jobs:
 
       - name: build SinnerSchrader career page
         run: |
-          run: |
           git config --global user.email "s2-github-bot@sinnerschrader.com"
           git config --global user.name "s2-github-bot"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
