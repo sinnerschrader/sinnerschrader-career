@@ -41,8 +41,8 @@ jobs:
       - name: build SinnerSchrader career page
         run: |
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
-          git config --global user.email "${GH_USERNAME}@users.noreply.github.com"
-          git config --global user.name "${GH_USERNAME}"
+          git config --global user.email "s2-github-bot@users.noreply.github.com"
+          git config --global user.name "s2-github-bot"
           git add -f docs/.;
           git commit -m "auto generated docs/";
           git push;
