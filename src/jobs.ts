@@ -32,7 +32,27 @@ export class Jobs {
   public getJobsForLanguage(language: string): Job[] {
     return this.compiledJobs
       .filter(it => it.published)
-      .filter(it => it.language === language);
+      .filter(it => it.language === language)
+      .sort((a, b) => {
+        // @ts-ignore
+        if ((a.date - b.date) > 0) {
+          return -1;
+        }
+        // @ts-ignore
+        if ((a.date - b.date) < 0) {
+          return 1;
+        }
+
+        // sort by title
+        if ((a.title.toLowerCase() < b.title.toUpperCase())) {
+          return 1;
+        }
+        if ((a.title.toLowerCase() > b.title.toUpperCase())) {
+          return -1;
+        }
+
+        return 0;
+      });
   }
 
   public getJobMetadataForLanguage(language: string) {
