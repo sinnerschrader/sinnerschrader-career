@@ -17,11 +17,13 @@ We are currently looking for a Junior Web Analyst (m/f/x/-) at our Hamburg offic
 As Junior Web Analyst you will help the product team to understand our users. Your analyses and dashboards visualize how our customers' digital products and services are used. Based on this, you will develop campaigns, A/B/n tests and personalization measures to continuously improve the user experience.
 
 ### Your duties:
+
 - You create analyses in cross-functional teams.
 - Experienced colleagues support you in direct cooperation, e.g. through code reviews and collaborative work (pairing).
 - You contribute your knowledge (e.g. from private or student projects) to product development and gain experience by implementing your own ideas end-to-end, i.e. until success is measured.
 
 ### What we offer:
+
 - Independent work in cross-functional teams
 - Intensive exchange with the experts in Team Data - every day in collaboration as well as in weekly trainings
 - Direct collaboration with developers, designers and usability experts
