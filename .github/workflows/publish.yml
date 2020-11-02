@@ -48,4 +48,4 @@ jobs:
           git subtree split --branch gh-pages --prefix docs/;
           git checkout gh-pages;
           rm -rf node_modules/;
-          git push;
+          git push -f --set-upstream origin gh-pages;
