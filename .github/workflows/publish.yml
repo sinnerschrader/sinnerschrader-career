@@ -45,4 +45,5 @@ jobs:
           git config --global user.name "s2-github-bot"
           git add -f docs/.;
           git commit -m "auto generated docs/";
+          git subtree split --branch gh-pages --prefix docs/;
           git push;
