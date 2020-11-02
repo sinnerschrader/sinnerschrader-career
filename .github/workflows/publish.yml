@@ -12,7 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          persist-credentials: false
           fetch-depth: 0
 
       - name: Setup node
@@ -41,10 +40,9 @@ jobs:
 
       - name: build SinnerSchrader career page
         run: |
-          run: |
-          git config --global user.email "s2-github-bot@sinnerschrader.com"
-          git config --global user.name "s2-github-bot"
           yarn build "https://sinnerschrader.github.io/sinnerschrader-career/";
+          git config --global user.email "s2-github-bot@users.noreply.github.com"
+          git config --global user.name "s2-github-bot"
           git add -f docs/.;
           git commit -m "auto generated docs/";
           git push;
