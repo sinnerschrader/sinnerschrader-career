@@ -195,7 +195,7 @@ export class Renderer {
         if (jobData) {
           const template = this.templates.find(it => it.file === jobData.template);
           if (template) {
-            return detailNameBuilder(jobData, template);
+            return `${this.baseHref}${detailNameBuilder(jobData, template)}`;
           }
         }
       }
@@ -218,6 +218,14 @@ export class Renderer {
 
     Handlebars.registerHelper('ifEquals', function (arg1, arg2, options) {
       return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+    });
+
+
+    console.info(chalk.green`Register encodeURIComponent helper...`);
+
+    Handlebars.registerHelper('encodeURIComponent', function (text: string) {
+      console.log('text', text);
+      return text ? encodeURIComponent(text) : '';
     });
   }
 }
