@@ -24,28 +24,28 @@
     <div>{{translate "contactShare" lang}}</div>
     <ul class="socialmedia">
         <li>
-            <a href="https://www.xing.com/app/user" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.xing.com/spi/shares/new?url={{detailUrl jobId}}" target="_blank" rel="noopener noreferrer">
                 <svg class="svg-ico" viewBox="0 0 20 20">
                     <use xlink:href="#share-xing"></use>
                 </svg>
             </a>
         </li>
         <li>
-            <a href="https://www.linkedin.com/shareArticle" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/shareArticle?url={{detailUrl jobId}}&mini=true&summary={{encodeURIComponent description}}" target="_blank" rel="noopener noreferrer">
                 <svg class="svg-ico" viewBox="0 0 20 20">
                     <use xlink:href="#linked_in"></use>
                 </svg>
             </a>
         </li>
         <li>
-            <a href="https://twitter.com/share" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/intent/tweet?url={{detailUrl jobId}}&text={{encodeURIComponent description}}" target="_blank" rel="noopener noreferrer">
                 <svg class="svg-ico">
                     <use xlink:href="#twitter"></use>
                 </svg>
             </a>
         </li>
         <li>
-            <a href="https://www.facebook.com/sharer/" target="_blank" rel="noopener noreferrer">
+            <a href="http://www.facebook.com/sharer.php?u={{detailUrl jobId}}" target="_blank" rel="noopener noreferrer">
                 <svg class="svg-ico" viewBox="0 0 20 20">
                     <use xlink:href="#facebook"></use>
                 </svg>
