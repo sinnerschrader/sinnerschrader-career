@@ -7,7 +7,7 @@
     date: 2020-10-29
     published: true
     title: ReactJS Developer
-    description: 
+    description: more text
     contact: victoria
 ---
 
