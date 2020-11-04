@@ -3,7 +3,7 @@
     location: Ber
     discipline: Creative
     level: Professionals
-    company: SinnerSchrader
+    company: SinnerSchrader Swipe
     date: 2020-11-4
     published: true
     title: Product Designer UX
