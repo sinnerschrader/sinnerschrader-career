@@ -3,7 +3,7 @@
     location: Ham
     discipline: Tech
     level: Professionals
-    company: SinnerSchrader
+    company: SinnerSchrader Swipe
     date: 2020-11-4
     published: true
     title: Technical Director
@@ -20,12 +20,12 @@ Your tasks will include leading, supervising and hiring a team of developers. Wi
 
 ### Your responsibilities:
 
-Influencing in the sense of good architectural decisions taking into account technical goals and our clients' wishes
-Definition and iteration of the development process
-Participate in all phases of the software lifecycle, including working with product managers to define product specifications
-Review of code and control of contributions throughout the process
-Proactively search for and minimize pain points in project infrastructure and code base
-Take over personnel responsibility, coach and ensure further development of the team
+- Influencing in the sense of good architectural decisions taking into account technical goals and our clients' wishes
+- Definition and iteration of the development process
+- Participate in all phases of the software lifecycle, including working with product managers to define product specifications
+- Review of code and control of contributions throughout the process
+- Proactively search for and minimize pain points in project infrastructure and code base
+- Take over personnel responsibility, coach and ensure further development of the team
 
 ### Your profile:
 
