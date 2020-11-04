@@ -4,5 +4,5 @@
     phone: 
     mail: jobs@sinnerschrader.com
     xing: 
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/annika-helmli-a52506189/
 ---
