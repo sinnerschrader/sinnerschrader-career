@@ -15,7 +15,7 @@ SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus 
 
 Innerhalb der Gruppe ist die SinnerSchrader Content GmbH der Experte für Content Marketing: Inhalte mit journalistischem Qualitätsanspruch, relevant für die Leser, hilfreich für die Marke. Mit CURVED haben wir eines der Vorzeige-Projekte im Bereich Content Marketing vor gut vier Jahren auf den Markt gebracht.
 
-Derzeit suchen wir für unsere stark wachsende Tochter SinnerSchrader Content an unserem Hamburger Standort eine:n **Senior Content Strategist (w/m/x)**.
+Derzeit suchen wir für unsere stark wachsende Tochter SinnerSchrader Content an unserem Hamburger Standort eine:n **Senior Content Strategist (w/m/x/-)**.
 
 Du verstehst Content nicht isoliert, sondern als Teil einer ganzheitlichen Strategie transformationaler Produkte und digitaler Ökosysteme. Du weißt, wo die wirklichen Mehrwerte des Content Hypes liegen und kannst Content Marketing in einem Satz erklären. Du bist in der Lage, das Thema Content strategisch auf Kunden zu entwickeln und konzeptionell auf die Straße zu bringen. Du baust neue Projekte, neue Kunden und neue Geschäftsfelder mit uns auf und hast hierbei konkrete Ideen, wie Projekte umgesetzt werden können. Du musst kein:e Journalist:in sein, kein:e Social Media Manager:in, kein:e Web-Developer:in und auch kein:e Analyst:in. Aber du verstehst ihre Sprache und kannst sie transportieren.
 

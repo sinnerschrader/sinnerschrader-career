@@ -11,7 +11,7 @@
     contact: victoria
 ---
 
-Aktuell suchen wir für unseren Hamburger Standort eine:n **Technical Director (w/m/x)**.
+Aktuell suchen wir für unseren Hamburger Standort eine:n **Technical Director (w/m/x/-)**.
 
 Wir suchen dich als Technical Director, zur Unterstützung in der Bereitstellung solider entwickelter, transformierender Produkte für unsere Kund:innen. Die Rolle erfordert in der täglichen Projektleitung bis zur Auslieferung der Produkte eine enge Zusammenarbeit mit den anderen Director:innen aus den Bereichen Product & Client Management und Product Design.
 

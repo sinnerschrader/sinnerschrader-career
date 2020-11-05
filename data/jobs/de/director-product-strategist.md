@@ -13,7 +13,7 @@
 
 SinnerSchrader gehört zu den führenden Design- und Technologie-Agenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 600 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, TUI, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Studios in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Aktuell suchen wir für unseren Frankfurrter Standort eine:n **Director Product Strategy (w/m/x)**.
+Aktuell suchen wir für unseren Frankfurrter Standort eine:n **Director Product Strategy (w/m/x/-)**.
 
 Wir suchen Strateg:innen, die die digitale Transformation transformieren wollen. Strateg:innen, die auf Basis von fundierten Methoden, fachlichem Know How und kreativem Gespür die digitalen Plattformen von morgen gestalten und revolutionieren. Du schaust radikal durch die Brille des Nutzers und entwickelst nutzenstiftende und innovative Lösungen, die unseren Alltag einfacher und vor allem besser zu machen. Daher sind Service und Experience Design ebenso dein Spielfeld wie das klassische Strategierepertoire. Du hast ein treffsicheres Gespür für Marken und deren geschäftliche Herausforderungen im digitalen Zeitalter. Und du verfügst über herausragende kommunikative wie methodische Fähigkeiten und einen analytischen wie inspirierenden Geist.
 

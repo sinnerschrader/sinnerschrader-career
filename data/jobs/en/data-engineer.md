@@ -13,7 +13,7 @@
 
 SinnerSchrader is one of Europe's leading digital agencies. With a focus on digital services, e-commerce, strategy and communication, SinnerSchrader offers the entire range of digital agency services: conception, design and development of web platforms, mobile apps, service design, campaigns, media, analytics and personalisation.
 
-We are currently looking for a **Data Engineer (f/m/x)** at our Hamburg office:
+We are currently looking for a **Data Engineer (f/m/d/-)** at our Hamburg office:
 
 Do you have a passion for demanding analytical tasks, can you always think your way into other business models and would you like to sustainably improve digital platforms in various markets and industries for the user and the business? In Team Data, we help our clients to better understand and address interactive consumers and to support strategic and operational measures with data and analyses.
 

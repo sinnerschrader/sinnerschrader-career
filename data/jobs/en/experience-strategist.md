@@ -13,7 +13,7 @@
 
 SinnerSchrader is one of Europe's leading digital agencies focusing on the design and development of digital products and services. More than 600 employees work on the digital transformation for companies such as Audi, comdirect bank, ERGO, Telefónica, Unitymedia and VW. SinnerSchrader was founded in 1996, has been listed on the stock exchange since 1999 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich and Prague. SinnerSchrader has been part of Accenture Interactive since April 2017.
 
-We are currently looking for an **Experience Strategist (f/m/x)** at our Frankfurt office.
+We are currently looking for an **Experience Strategist (f/m/d/-)** at our Frankfurt office.
 
 We are looking for strategists who want to transform the digital transformation. Strategists who design and revolutionize the digital platforms of tomorrow on the basis of sound methods, professional know-how and creative intuition. You are the kind of person who looks radically through the eyes of the user and develops beneficial and innovative solutions that make everyday life simpler and – above all – better. You are therefore equally at ease with service and experience design as you are with the standard strategy repertoire. You have a keen sense of brands and their business challenges in the digital age. You also have excellent communication and methodical skills in addition to an analytical and inspiring mind.
 

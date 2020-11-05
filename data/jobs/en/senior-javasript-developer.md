@@ -13,7 +13,7 @@
 
 SinnerSchrader is one of Europe's leading digital agencies focusing on the design and development of digital products and services. More than 600 employees work on the digital transformation for companies such as Audi, comdirect bank, ERGO, Telefónica, Unitymedia and VW. SinnerSchrader was founded in 1996, has been listed on the stock exchange since 1999 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich and Prague. SinnerSchrader has been part of Accenture Interactive since April 2017.
 
-We are currently looking for a **Senior JavaScript Developer (f/m/x)** at our Munich office.
+We are currently looking for a **Senior JavaScript Developer (f/m/d/-)** at our Munich office.
 
 As a Senior JavaScript Developer you will support our clients, together with the project team, in the implementation of web applications. You help us to develop high-performance platforms where you can try out new things and apply modern technologies.
 
