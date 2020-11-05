@@ -7,7 +7,7 @@
     date: 2020-11-04
     published: true
     title: Senior JavaScript Developer
-    description: some text here 
+     
     contact: victoria
 ---
 
