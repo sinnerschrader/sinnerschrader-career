@@ -13,7 +13,7 @@
 
 SinnerSchrader Swipe ist ein Studio für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg und Berlin. Wir entwickeln digitale Produkte - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS, Android und React Native. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Europa Park, Motel One, VW und Telefónica.
 
-Für unseren Berliner Standort suchen wir ab sofort eine:n **Product Designer UX (w/m/x)**.
+Für unseren Berliner Standort suchen wir ab sofort eine:n **Product Designer UX (w/m/x/-)**.
 
 Als zupackende:r UX Designer bist du mal Ideengeber:in, mal Aggregator:in in der intensiven Zusammenarbeit von Research, Product Design, Product Strategy, Product Engineering und Product and Client Management. Was dir fremd ist, macht dich neugierig, Vertrautem begegnest du mit selbstkritischer Distanz. Dein hervorragendes Gespür und Empathie für Kundenbedürfnisse und Product Design treibt dich an zur unermüdlichen Suche nach der besten Lösung. Sensible Visualität, eine hohe Qualität und nutzerzentriertes Denken sind dir gleichermaßen wichtig. Du findest schnell überzeugende Lösungsansätze und bist führende gestalterische Kraft bei der Neukundengewinnung und lieferst mit deiner Arbeit einen echten Mehrwert für unsere Bestandskunden.
 

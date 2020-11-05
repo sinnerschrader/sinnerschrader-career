@@ -3,11 +3,11 @@
         <td class="cell-mobile">
             <a href="./{{detailUrl job.id}}">
 
-                <div class="strong">{{job.title}}</div>
+                <div class="strong">{{job.title}} {{translate "inclusion" job.language}}</div>
                 <div>{{ translate job.location job.language }}</div>
             </a>
         </td>
-        <td class="jobs--title">{{job.title}}</td>
+        <td class="jobs--title">{{job.title}} {{translate "inclusion" job.language}}</td>
         <td class="jobs--area">{{ translate job.discipline job.language }}</td>
         <td class="jobs--location">{{ translate job.location job.language }}
             <svg class="svg-ico svg-ico--arrow-down"><use xlink:href="#arrow-down"></use></svg>
@@ -17,9 +17,11 @@
     <tr>
         <td colspan="4">
             <section class="mod-jobsdetail is-inner">
-                <section class="article-body">
-                    <h2>{{job.title}}</h2>
+                <header class="article-header">
+                    <h3 class="h3">{{job.title}} {{translate "inclusion" job.language}}</h3>
                     <time class="scopy">{{ convertDate job.date }}</time>
+                </header>
+                <section class="article-body">
                     <div>
                         {{{job.content}}}
                     </div>

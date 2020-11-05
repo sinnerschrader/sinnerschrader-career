@@ -7,12 +7,12 @@
     date: 2020-11-04
     published: true
     title: Technical Director
-    description: some text here 
+     
     contact: victoria
 ---
 SinnerSchrader Swipe is a studio for mobile product management, design and software engineering with offices in Hamburg and Berlin. We develop maximum lovable products – radically user-centered services focusing on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS, Android and React Native. Our portfolio includes companies in sectors such as mobility, automotive, lifestyle and telecom. Some of our better known clients are Audi, Raumfeld, VW and Telefónica.
 
-We are currently looking for a **Technical Director (f/m/x)** at our Hamburg office.
+We are currently looking for a **Technical Director (f/m/d/-)** at our Hamburg office.
 
 We are looking for a Technical Director to help us deliver solidly developed, transforming products to our clients. This role requires close collaboration with the other Product & Client Management Directors and Product Design Directors from day-to-day project management to product delivery.
 

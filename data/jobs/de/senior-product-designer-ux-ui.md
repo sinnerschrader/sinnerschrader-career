@@ -13,7 +13,7 @@
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 600 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Für unseren Standort in München suchen wir eine:n **Senior Product Designer UX/UI (w/m/x)**.
+Für unseren Standort in München suchen wir eine:n **Senior Product Designer UX/UI (w/m/x/-)**.
 
 Dein Antrieb ist es, aus Ideen herausragende Services und Produkte werden zu lassen. Du arbeitest hands-on, mal bist du Ideengeber:in, mal Aggregator:in in der Zusammenarbeit mit interdisziplinären Teams, sowie Direktoren und Principles. Du siehst dich als Multiplikator:in und Wissensvermittler:in. Du besitzt einen hohen Qualitätsanspruch und lässt dich nicht so schnell aus der Ruhe bringen. Dann bist du bei uns genau richtig!
 

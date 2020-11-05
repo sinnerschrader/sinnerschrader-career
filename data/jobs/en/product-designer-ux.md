@@ -7,13 +7,13 @@
     date: 2020-11-04
     published: true
     title: Product Designer UX
-    description: some text here 
+     
     contact: victoria
 ---
 
 SinnerSchrader Swipe is a studio for mobile product management, design and software engineering with offices in Hamburg and Berlin. We develop digital products – radically user-centered services focusing on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS, Android and React Native. Our portfolio includes companies in sectors such as mobility, automotive, lifestyle and telecom. Some of our better known clients are Audi, Europa Park, Motel One, VW and Telefónica.
 
-We are currently looking for a **Product Designer UX (f/m/x)** at our Berlin office.
+We are currently looking for a **Product Designer UX (f/m/d/-)** at our Berlin office.
 
 As a hands-on UX Designer, you can be a source of ideas or an aggregator in the intensive cooperation between Product Design, Product Strategy, Product Engineering and Product and Client Management. If something is new to you, you are curious. If something is familiar, you show self-critical distance. Your excellent sense of conception and product design drives you to tirelessly search for the best solution. Empathy, user-centered thinking and a high understanding of quality characterize you. You quickly find convincing solutions and are a leading creative force in the acquisition of new clients and deliver real added value for our existing clients with your work.
 

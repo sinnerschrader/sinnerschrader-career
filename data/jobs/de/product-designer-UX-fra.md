@@ -13,7 +13,7 @@
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 600 Mitarbeite:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Aktuell suchen wir für unseren Standort in Frankfurt eine:n **Product Designer UX (w/m/x)**.
+Aktuell suchen wir für unseren Standort in Frankfurt eine:n **Product Designer UX (w/m/x/-)**.
 
 Als zupackende:r Designer:in bist du mal Ideengeber:in, mal Aggregator:in in der intensiven Zusammenarbeit von Research, Product Design, Product Strategy, Product Engineering und Product and Client Management. Was dir fremd ist, macht dich neugierig, Vertrautem begegnest du mit selbstkritischer Distanz. Dein hervorragendes Gespür und Empathie für Kundenbedürfnisse und Design treibt dich an zur unermüdlichen Suche nach der besten Lösung. Sensible Visualität, eine hohe Qualität und nutzerzentriertes Denken sind dir gleichermaßen wichtig. Du findest schnell überzeugende Lösungsansätze und bist führende gestalterische Kraft bei der Neukundengewinnung und lieferst mit deiner Arbeit einen echten Mehrwert für unsere Bestandskunden.
 
