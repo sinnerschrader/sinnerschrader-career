@@ -22,10 +22,6 @@
     display: none;
 }
 
-.mod-jobsdetail .article-body h2:first-child {
-    margin-top: 0;
-}
-
 @media screen and (min-width:1024px) {
     .mod-jobsfilter .filter--discipline,
     .mod-jobslist .jobs--area {
