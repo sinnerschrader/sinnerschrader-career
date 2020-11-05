@@ -31,4 +31,4 @@ Bei uns triffst du aktuell unter anderem auf folgende Technologien: JavaScript, 
 - Raum für eigene Ideen
 - Du bekommst ein Zeitkontingent, welches du für eigene Weiterbildung nutzen kannst. Entweder in einem unserer regelmäßigen Trainings, interne Fachworkshops oder Konferenzbesuche
 
-Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an jobs@sinnerschrader.com. Wir freuen uns auf dich. Mehr über uns erfährst du auf unserer Facebook Seite. 
+Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich. Mehr über uns erfährst du auf unserer Facebook Seite. 

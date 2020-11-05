@@ -4,7 +4,7 @@
     discipline: Strategy
     level: Professionals
     company: SinnerSchrader
-    date: 2020-11-4
+    date: 2020-11-04
     published: true
     title: Director Product Strategist
     description: 
@@ -34,4 +34,4 @@ Wir suchen Strateg:innen, die die digitale Transformation transformieren wollen.
 - Ein Agenturumfeld mit starker Kultur und Persönlichkeit – mit einer längeren Erfolgsgeschichte als Google, immer am Puls der digitalen Entwicklung
 - Großes Entwicklungspotenzial und Eigenverantwortung
 
-Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an jobs@sinnerschrader.com. Wir freuen uns auf dich.
+Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.

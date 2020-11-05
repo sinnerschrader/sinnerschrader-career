@@ -4,7 +4,7 @@
     discipline: Creative
     level: Professionals
     company: SinnerSchrader
-    date: 2020-11-4
+    date: 2020-11-04
     published: true
     title: Product Designer UI
     description: 
@@ -47,4 +47,4 @@ Als zupackende:r Gestalter:in bist du mal Ideengeber:in, mal Aggregator:in in de
 - Ein agiles, innovatives Team
 - Tolle Benefits, eine angenehme Arbeitsatmosphäre und Spaß bei der Arbeit
 
-Bitte sende uns deine Bewerbungsunterlagen (inklusive Link zu deinem online Portfolio) ausschließlich per E-Mail an jobs@sinnerschrader.com. Wir freuen uns auf dich.
+Bitte sende uns deine Bewerbungsunterlagen (inklusive Link zu deinem online Portfolio) ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.

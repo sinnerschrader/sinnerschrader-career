@@ -33,4 +33,4 @@ Wenn dir etwas davon nichts sagt, kein Problem! Wir bringen dir alles bei.
 - Spannende Projekte für namhafte Unternehmen
 - Flexible Arbeitszeitmodelle und ein faires Gehalt
 
-Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an jobs@sinnerschrader.com. Wir freuen uns auf dich. Mehr über uns erfährst du auf unserer Facebook Seite. 
+Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich. Mehr über uns erfährst du auf unserer Facebook Seite. 

@@ -19,4 +19,4 @@ Neben der Projektarbeit tauschen wir uns untereinander zu aktuellen Themen aus, 
 
 Interesse geweckt? Dann melde dich doch einfach bei uns.
 
-Für mehr Informationen: @s2engineers
+Für mehr Informationen: [@s2engineers](https://twitter.com/s2engineers.com)
