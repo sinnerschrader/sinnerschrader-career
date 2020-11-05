@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2020-10-29
     published: true
-    title: ReactJS Developer
+    title: Data Engineer
     description: more text
     contact: victoria
 ---
