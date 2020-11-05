@@ -4,7 +4,7 @@
     discipline: Strategy
     level: Professionals
     company: SinnerSchrader
-    date: 2020-11-4
+    date: 2020-11-04
     published: true
     title: Experience Strategist
     description: 
