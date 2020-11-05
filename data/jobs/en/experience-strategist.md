@@ -4,7 +4,7 @@
     discipline: Strategy
     level: Professionals
     company: SinnerSchrader
-    date: 2020-11-4
+    date: 2020-11-04
     published: true
     title: Experience Strategist
     description: some text here 
@@ -33,4 +33,4 @@ We are looking for strategists who want to transform the digital transformation.
 - Creative exchange with your strategy team and the SinnerSchrader team
 - Great benefits, a pleasant working atmosphere and short decision-making processes
 
-Please send your complete application by email only to jobs@sinnerschrader.com. We look forward to hearing from you.
+Please send your complete application by email only to <jobs@sinnerschrader.com>. We look forward to hearing from you.

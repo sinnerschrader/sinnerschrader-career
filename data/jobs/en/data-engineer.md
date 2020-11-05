@@ -31,5 +31,5 @@ Within our projects we are looking for a central contact for the realization of 
 - Pleasant working atmosphere, short decision-making processes and a dynamic and innovative team
 
 ### Interested?
-Please send your complete application by email only to jobs@sinnerschrader.com. We look forward to hearing from you. For more information about us check our facebook page. 
+Please send your complete application by email only to <jobs@sinnerschrader.com>. We look forward to hearing from you. For more information about us check our facebook page. 
 

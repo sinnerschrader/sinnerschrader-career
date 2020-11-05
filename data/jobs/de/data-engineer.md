@@ -31,4 +31,4 @@ Innerhalb unserer Projekte suchen wir einen zentralen Ansprechpartner für die R
 - Angenehme Arbeitsatmosphäre, kurze Entscheidungswege und ein dynamisches sowie innovatives Team
 
 ### Interesse?
-Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an jobs@sinnerschrader.com. Wir freuen uns auf dich. Mehr über uns erfährst du auf unserer Facebook Seite. 
+Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich. Mehr über uns erfährst du auf unserer Facebook Seite. 

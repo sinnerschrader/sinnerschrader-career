@@ -4,7 +4,7 @@
     discipline: Creative
     level: Professionals
     company: SinnerSchrader Swipe
-    date: 2020-11-4
+    date: 2020-11-04
     published: true
     title: Product Designer UX
     description: 
@@ -46,4 +46,4 @@ Als zupackende:r UX Designer bist du mal Ideengeber:in, mal Aggregator:in in der
 - Tolle Benefits
 - Angenehme Arbeitsatmosphäre, Spaß bei der Arbeit und ein agiles, innovatives Team
 
-Bitte sende uns deine Bewerbungsunterlagen (inklusive Link zu deinem online Portfolio) ausschließlich per E-Mail an jobs@sinnerschrader.com. Wir freuen uns auf dich.
+Bitte sende uns deine Bewerbungsunterlagen (inklusive Link zu deinem online Portfolio) ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.

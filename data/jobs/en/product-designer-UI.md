@@ -4,7 +4,7 @@
     discipline: Creative
     level: Professionals
     company: SinnerSchrader
-    date: 2020-11-4
+    date: 2020-11-04
     published: true
     title: Product Designer UI
     description: some text here 
@@ -47,4 +47,4 @@ As a hands-on designer, you can be a source of ideas or an aggregator in the int
 - An agile, innovative team
 - Great benefits, a pleasant working atmosphere and fun at work
 
-Please send your complete application (link to your online portfolio included) by email only to jobs@sinnerschrader.com. We look forward to hearing from you.
+Please send your complete application (link to your online portfolio included) by email only to <jobs@sinnerschrader.com>. We look forward to hearing from you.

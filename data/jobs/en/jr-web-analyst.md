@@ -32,4 +32,4 @@ As Junior Web Analyst you will help the product team to understand our users. Yo
 - Exciting projects for well-known companies
 - Flexible working time models and a fair salary
 
-Please send your complete application by email only to jobs@sinnerschrader.com. We look forward to hearing from you. For more information about us check our facebook page. 
+Please send your complete application by email only to <jobs@sinnerschrader.com>. We look forward to hearing from you. For more information about us check our facebook page. 
