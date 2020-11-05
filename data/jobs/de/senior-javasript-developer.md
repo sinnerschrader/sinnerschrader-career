@@ -23,13 +23,13 @@ Bei uns triffst du aktuell unter anderem auf folgende Technologien: JavaScript, 
 
 - Du entwickelst mit modernem JavaScript (ES2015/2016/2017) eine umfangreiche Kundenplattform
 - Du wirst unter anderem dabei folgende Technologien verwenden: Gatsby.js, Contentful, AWS (serverless), React, TypeScript, Node.js, Jest
-- Du arbeitest agil und in crossfunktionalen Teams und teilst dein Wissen mit deinen Kollegen
+- Du arbeitest agil und in crossfunktionalen Teams und teilst dein Wissen mit deinen Kolleg:innen
 - Du entwickelst test-getriebene Software und beteiligst dich an Code Reviews und technischen Diskussionen
 
 ### Was bieten wir dir:
 
 - Eigenverantwortliches Arbeiten in crossfunktionalen Teams
-- Intensiven Austausch mit unserer aktiven internen Entwickler-Community
+- Intensiven Austausch mit unserer aktiven internen Developer-Community
 - Raum für eigene Ideen
 - Du bekommst ein Zeitkontingent, welches du für eigene Weiterbildung nutzen kannst. Entweder in einem unserer regelmäßigen Trainings, interne Fachworkshops oder Konferenzbesuche
 
