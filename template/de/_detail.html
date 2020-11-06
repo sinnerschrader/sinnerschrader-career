@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="de">
 {{#if description}}
-{{>head baseHref=baseHref pageTitle=title pageDesc=description lang="de"}}
+{{>head baseHref=baseHref pageTitle=(concat title " gesucht") pageDesc=description lang="de"}}
 {{/if}}
 {{#unless description}}
-{{>head baseHref=baseHref pageTitle=title pageDesc="We believe two heads are always better than one. And a whole team of heads is even better. That’s how we work. With no alpha leaders and no beta teams." lang="de"}}
+{{>head baseHref=baseHref pageTitle=(concat title " gesucht") pageDesc="We believe two heads are always better than one. And a whole team of heads is even better. That’s how we work. With no alpha leaders and no beta teams." lang="de"}}
 {{/unless}}
 <body data-theme="green">
 {{>svgsprite}}
@@ -19,7 +19,12 @@
             <section class="article-body">
                 {{{content}}}
             </section>
-            {{>contact contact=contact jobId=id lang="de" description=description}}
+            {{#if description}}
+                {{>contact contact=contact jobId=id lang="de" description=description}}
+            {{/if}}
+            {{#unless description}}
+                {{>contact contact=contact jobId=id lang="de" description="We believe two heads are always better than one. And a whole team of heads is even better. That’s how we work. With no alpha leaders and no beta teams."}}
+            {{/unless}}
         </section>
         {{>location lang="de"}}
     </main>
