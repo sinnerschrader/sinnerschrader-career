@@ -214,6 +214,14 @@ export class Renderer {
       return '#';
     });
 
+
+    console.info(chalk.green`Register concat helper...`);
+
+    Handlebars.registerHelper('concat', (string1: string, string2: string) => {
+      console.log(string1);
+      return string1 + string2;
+    });
+
     console.info(chalk.green`Register if equal helper...`);
 
     Handlebars.registerHelper('ifEquals', function (arg1, arg2, options) {
