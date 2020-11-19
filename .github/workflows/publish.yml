@@ -40,7 +40,7 @@ jobs:
 
       - name: build SinnerSchrader career page
         run: |
-          yarn build "https://github.sinnerschrader.jobs/";
+          yarn build "https://sinnerschrader.jobs/";
           git config --global user.email "s2-github-bot@users.noreply.github.com"
           git config --global user.name "s2-github-bot"
           git add -f docs/.;
