@@ -217,9 +217,8 @@ export class Renderer {
 
     console.info(chalk.green`Register concat helper...`);
 
-    Handlebars.registerHelper('concat', (string1: string, string2: string) => {
-      console.log(string1);
-      return string1 + string2;
+    Handlebars.registerHelper('concat', (string1: string, string2: string, string3?: string, string4?: string) => {
+      return string1 + string2 + (string3 ? string3 : '') + (string4 ? string4 : '');
     });
 
     console.info(chalk.green`Register if equal helper...`);
