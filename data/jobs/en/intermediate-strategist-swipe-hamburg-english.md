@@ -13,7 +13,7 @@
 
 SinnerSchrader Swipe is a studio focusing on digital product management, user interface design and software engineering, based in Hamburg and Berlin. We develop Maximum Loveable Products - radically user-centric services with a focus on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS, Android and React Native. Our portfolio includes companies from the mobility, automotive, lifestyle and telecommunications sectors. Well-known customers include Audi, Motel One, VW and Telefónica.
 
-For our Hamburg location we are looking for a **Strategist (f/m/x/-)**.
+For our Hamburg location we are looking for a **Strategist (f/m/d/-)**.
 
 We are looking for strategists who want to transform the digital transformation. Strategists who will design and revolutionise the digital platforms of tomorrow on the basis of sound methods, specialist know-how and creative intuition. You look radically through the eyes of the user and develop value-creating and innovative solutions that make our everyday lives easier and, above all, more user-friendly. That's why service and experience design are just as much your playing field as the classic strategy keyboard. You have an unerring feeling for brands and their business challenges in the digital age. And you have outstanding communication and methodical skills and an analytical and inspiring spirit. You have a soft spot for human interface design and experience in its product strategic analysis. You like to take the pen in your hand because you enjoy inspiring the product team with your findings. Then you are a perfect match for us, and we should get to know each other!
 
