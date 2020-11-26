@@ -7,7 +7,6 @@
     date: 2020-11-20
     published: true
     title: Senior Digital Marketing Manager/Strategist 
-    description: hier
     contact: victoria
 ---
 
