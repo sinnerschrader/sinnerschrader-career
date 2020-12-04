@@ -8,7 +8,7 @@
     published: true
     title: Junior Frontend Developer
     description:
-    contact: victoria
+    contact: mela
 ---
 Moin! ⚓️
 
