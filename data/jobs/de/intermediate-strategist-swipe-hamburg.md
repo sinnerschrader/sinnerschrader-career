@@ -7,7 +7,7 @@
     date: 2020-11-26
     published: true
     title: Strategist 
-    description: hier
+    description:
     contact: victoria
 ---
 
