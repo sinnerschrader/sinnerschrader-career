@@ -4,7 +4,7 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
-    date: 2020-12-2020
+    date: 2020-12-04
     published: true
     title: Senior Web Analyst
     
