@@ -1,7 +1,7 @@
 ---
     language: de
     location: Ham
-    discipline: Data
+    discipline: Strategy
     level: Young Professionals
     company: SinnerSchrader
     date: 2020-10-29
