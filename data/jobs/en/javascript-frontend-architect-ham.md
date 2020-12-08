@@ -30,7 +30,7 @@ We work in our studio in the city Hamburg with our team of around 100 people. Th
 
 ### Your profile:
 
- -Very good knowledge of the React ecosystem
+- Very good knowledge of the React ecosystem
 - Very good knowledge of HTML5/CSS3/JavaScript technologies
 - Basic understanding of backend technologies
 - Experience in an agile context (SCRUM, Kanban)
