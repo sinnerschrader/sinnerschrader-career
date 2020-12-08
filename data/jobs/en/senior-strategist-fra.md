@@ -1,7 +1,7 @@
 ---
     language: en
     location: Fra
-    discipline: Tech
+    discipline: Strategy
     level: all
     company: SinnerSchrader
     date: 2020-12-04
