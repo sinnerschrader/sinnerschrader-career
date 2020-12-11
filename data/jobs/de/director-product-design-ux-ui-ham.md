@@ -6,14 +6,14 @@
     company: SinnerSchrader
     date: 2020-12-11
     published: true
-    title: Director Product Designer UX/UI
+    title: Director Product Design UX/UI
     description: 
     contact: victoria
 ---
 
 SinnerSchrader gehört zu den führenden Design- und Technologie-Agenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, TUI, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Studios in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Für unseren Standort in Hamburg suchen wir eine:n **Director Product Designer UX/UI (w/m/x/-)**.
+Für unseren Standort in Hamburg suchen wir eine:n **Director Product Design UX/UI (w/m/x/-)**.
 
 Du bist Impulsgeber:in von neuen Ideen und Trends und brennst darauf digitale Services und Produkte zu entwickeln? Darüber hinaus besitzt du mehrjährige Erfahrung in der Mitarbeiter- und Kundenführung und hast außerdem große Freude daran diese weiterzuentwickeln? 
  
