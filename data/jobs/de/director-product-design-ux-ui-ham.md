@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2020-12-11
     published: true
-    title: Dirctor Product Designer UX/UI
+    title: Director Product Designer UX/UI
     description: 
     contact: victoria
 ---
