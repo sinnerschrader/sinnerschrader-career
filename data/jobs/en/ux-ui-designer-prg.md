@@ -23,7 +23,7 @@ First of all we are a company with the motto **No Assholes**. We endorse **indiv
 
 ✅ Endless opportunities to **grow and get responsibility** if you see that potential in you!
 
-Sounds interesting? Then keep reading if you are an **experienced UX designer** who *“just wants to do cool things”*! (quote from our Studio Lead Petr, the most funny lead you will ever work with ;))
+Sounds interesting? Then keep reading if you are an **experienced Designer** who *“just wants to do cool things”*! (quote from our Studio Lead Petr, the most funny lead you will ever work with ;))
 
 ### About us? 🚀
 
