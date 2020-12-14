@@ -1,6 +1,6 @@
 ---
     language: en
-    location: Prg
+    location: Prague 
     discipline: Creative
     level: all
     company: SinnerSchrader
@@ -54,7 +54,7 @@ You have a **desire to create a cool stuff** and have some background on which y
 Besides the group of great people to work with, space for your ideas and personal development and very nice salary package we offer:
 
 - 25 days of vacation, 3 sick days and a support of work-life balance
-- house_with_garden:Flexible working hours, home office anytime you need, literally (and these days even more :))
+- Flexible working hours, home office anytime you need, literally (and these days even more :))
 - Macbook Pro and Mobile Phone (iPhone / Samsung)
 - We support education (and mainly we have a budget for it) so prepare to go to conferences, trainings, certifications and reading books from our library
 - Language courses (online and offline)
