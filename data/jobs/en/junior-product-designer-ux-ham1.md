@@ -19,7 +19,7 @@ As a hands-on UX Designer, you will be a generator of ideas and an aggregator in
 
 ### What you can expect from us:
 
-- Conception and documentation of navigation, interaction concepts and content structures as well as their prototypical implementation.
+- Conception and documentation of navigation, interaction concepts and content structures as well as their prototypical implementation
 - Assistance in the creation of customer presentations
 - Support with usability tests
 - Competition research and usability analyses
