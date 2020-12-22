@@ -1,9 +1,9 @@
 ---
     language: en
-    location: Ham
+    location: Ber
     discipline: Account
     level: all
-    company: SinnerSchrader Swipe
+    company: SinnerSchrader 
     date: 2020-12-22
     published: true
     title: Product & Client Manager
