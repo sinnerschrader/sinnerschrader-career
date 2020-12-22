@@ -17,7 +17,7 @@ We are currently looking for **Senior Product & Client Managers (f/m/d/-)** for 
 
 ### What you can expect from us: 
 
-- Design of overarching project structures and processes (internal and external).
+- Design of overarching project structures and processes (internal and external)
 - Organisation and development of our project team
 - Client management as well as requirements and expectations management
 - Customer consulting with regard to business design and business opportunities
