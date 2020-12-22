@@ -29,7 +29,7 @@ Du wirst Teil eines dynamischen Teams mit digitalem Fokus. Kreativen Freiraum we
 ### Das solltest du mitbringen:
 
 - Ausführliche Erfahrungen in redaktioneller Arbeit
-- Mindestens erste Erfahrungen im Führen eines Teams, z.B. als Ressortleiter
+- Mindestens erste Erfahrungen im Führen eines Teams, z.B. als Ressortleiter:in
 - Schnelle Auffassungsgabe für neue Aufgaben und textliche Umsetzung
 - Begeisterung für Autos, Mobilität und Zukunftstechnologien
 - Erfahrung in der Arbeit mit Content Management Systemen 
