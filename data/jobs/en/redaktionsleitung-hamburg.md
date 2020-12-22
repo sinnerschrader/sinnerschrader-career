@@ -13,7 +13,7 @@
 
 SinnerSchrader is one of the leading digital agencies in Europe with a focus on the design and development of digital products and services. More than 500 employees work on digital transformation for companies such as Audi, comdirect bank, ERGO, Telefónica, Unitymedia and VW. SinnerSchrader was founded in 1996 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich and Prague. Since April 2017, SinnerSchrader has been part of Accenture Interactive.
 
-We are currently looking for a **Chief Editor (f/m/x/-).** to join our rapidly growing team at our Hamburg office.
+We are currently looking for a **Chief Editor (f/m/x/-)** to join our rapidly growing team at our Hamburg office.
 
 You will be part of a dynamic team with a digital focus. You know how to use creative freedom sensibly. Enthusiasm for the automotive industry and its technical development has accompanied you for years, and you are keen to convey this. You have experience in organising an editorial team; you love to hold all the threads in your hand - and to untangle them if necessary. The challenges of a start-up don't drive you crazy, but rather to peak performance. Being up to date is not an option for you, but the norm. Then you're a great fit for us, and we should get to know each other!
 
