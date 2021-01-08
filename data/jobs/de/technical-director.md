@@ -4,11 +4,11 @@
     discipline: Tech
     level: Professionals
     company: SinnerSchrader Swipe
-    date: 2020-11-04
+    date: 2021-01-08
     published: true
     title: Technical Director
     description: 
-    contact: victoria
+    contact: mela
 ---
 
 Aktuell suchen wir für unseren Hamburger Standort eine:n **Technical Director (w/m/x/-)**.
