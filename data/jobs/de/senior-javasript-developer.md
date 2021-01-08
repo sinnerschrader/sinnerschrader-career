@@ -4,7 +4,7 @@
     discipline: Tech
     level: Professionals
     company: SinnerSchrader
-    date: 2020-11-04
+    date: 2021-01-08
     published: true
     title: Senior JavaScript Developer
     description: 
