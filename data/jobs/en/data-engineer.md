@@ -4,7 +4,7 @@
     discipline: Tech
     level: all
     company: SinnerSchrader
-    date: 2020-10-29
+    date: 2021-01-08
     published: true
     title: Data Engineer
     
