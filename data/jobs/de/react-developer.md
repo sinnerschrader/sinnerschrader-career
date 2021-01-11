@@ -8,7 +8,7 @@
     published: true
     title: ReactJS Developer
     description: 
-    contact: victoria
+    contact: mela
 ---
 
 SinnerSchrader sucht Javascript Developer mit Schwerpunkt auf React. Als Teil unserer crossfunktionalen Scrum-Teams arbeitest du an bestehenden und neuen React Applikationen.
