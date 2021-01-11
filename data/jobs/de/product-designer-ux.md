@@ -4,7 +4,7 @@
     discipline: Creative
     level: Professionals
     company: SinnerSchrader Swipe
-    date: 2020-11-04
+    date: 2021-01-08
     published: true
     title: Product Designer UX
     description: 
