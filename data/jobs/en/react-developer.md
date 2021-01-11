@@ -4,11 +4,11 @@
     discipline: Tech
     level: all
     company: SinnerSchrader
-    date: 2020-10-29
+    date: 2021-01-08
     published: true
     title: ReactJS Developer
     
-    contact: victoria
+    contact: mela
 ---
 
 SinnerSchrader is looking for a React focused JavaScript developer. As part of our cross-functional Scrum teams, you will be working on existing and new React applications.
