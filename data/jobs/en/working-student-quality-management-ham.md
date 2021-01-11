@@ -4,11 +4,11 @@
     discipline: Tech
     level: all
     company: SinnerSchrader
-    date: 2020-12-04
+    date: 2021-01-08
     published: true
     title: Working Student Quality Management 
     
-    contact: mela
+    contact: annika
 ---
 
 SinnerSchrader is one of the leading digital agencies in Europe focusing on the design and development of digital products and services. More than 600 employees work on digital transformation for companies such as Audi, comdirect bank, ERGO, Telefónica, Unitymedia and VW. SinnerSchrader was founded in 1996, has been listed on the stock exchange since 1999 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich and Prague. SinnerSchrader has been part of Accenture Interactive since April 2017.
