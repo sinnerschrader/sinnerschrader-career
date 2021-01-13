@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2021-01-13
     published: true
-    title: Product & Client Manager
+    title: Senior Product & Client Manager
     description: 
     contact: victoria
 ---
