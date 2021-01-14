@@ -32,7 +32,7 @@ Your tasks will include leading, supervising and hiring a team of developers. Wi
 - Experience as a team lead or specialist manager and enjoyment of the professional development of a development team
 - Participation in open source projects would be an advantage
 - Knowledge of modern development practice
-- German and Englisch Skills are mandatory
+- German and English Skills are mandatory
 
 ### What we offer:
 
