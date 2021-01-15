@@ -8,7 +8,7 @@
     published: true
     title: Junior Frontend Developer
     
-    contact: mela
+    contact: annika
 ---
 
 Moin! ⚓️
@@ -18,6 +18,8 @@ We’re glad you’re here because that means that you might be interested in bu
 *Who are we?*
 
 We are one of Europe's leading digital agencies focusing on the design and development of digital products and services. More than 600 employees work on the digital transformation for global players. SinnerSchrader was founded in 1996 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich and Prague. SinnerSchrader has been part of Accenture Interactive since April 2017.
+
+We are currently looking for a **Junior Frontend Developer (f/m/d/-)** at our location in Frankfurt.
 
 *We just go for it!* 🙌🏻
 
