@@ -8,13 +8,15 @@
     published: true
     title: Junior Frontend Developer
     description:
-    contact: mela
+    contact: annika
 ---
 Moin! ⚓️
 
 Wir sind froh, dass du hier bist denn das bedeutet, dass du eventuell daran interessiert bist großartige Projekte mit uns auf die Beine zu stellen. Also lass‘ uns keine Zeit verlieren und herausfinden ob wir zusammenpassen!
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 600 Mitarbeiter:innen arbeiten an der digitalen Transformation für globale Player. SinnerSchrader wurde 1996 gegründet und hat Büros in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
+
+Aktuell suchen wir für unseren Frankfurter Standort eine:n **Junior Frontend Developer (w/m/x/-)**.
 
 *Wir machen es einfach!* 🙌🏻
 
