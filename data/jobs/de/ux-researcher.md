@@ -4,7 +4,7 @@
     discipline: Creative
     level: all
     company: SinnerSchrader
-    date: 2021-20-01
+    date: 2021-01-20
     published: true
     title: UX Researcher
     description: 
