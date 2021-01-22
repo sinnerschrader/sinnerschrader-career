@@ -4,7 +4,7 @@
     discipline: Account 
     level: all
     company: SinnerSchrader
-    date: 2020-01-05
+    date: 2021-01-05
     published: true
     title: Junior Product & Client Manager 
     description: 
