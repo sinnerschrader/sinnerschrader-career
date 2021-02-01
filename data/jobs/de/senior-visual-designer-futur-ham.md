@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2021-01-28
     published: true
-    title: Senior Visual Designer
+    title: (Senior) Visual Designer
     description: 
     contact: victoria
 ---
@@ -15,7 +15,7 @@ SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus 
  
 Für unseren Standort in Hamburg suchen wir eine:n **Senior Visual Designer (w/m/x/-)**.
 
-Als Senior Visual Designer liebst Du gute Gestaltung, egal in welchem Format – Du gestaltest einen Screen ebenso gut und leidenschaftlich wie Du auch mal einen Prozess illustrierst oder eine Präsentation designst. Du hast ein Gespür für Marken und kannst Ideen, Werte, Konzepte in Farben und Typografie übersetzen. Dir macht es Spaß in einem Pitch oder in nutzerzentrierten Design-Sprints in kürzester Zeit herausragende Ergebnisse zu liefern, aber auch mal eigene Themen zu treiben und Teams zu inspirieren.
+Als Senior Visual Designer liebst du gute Gestaltung, egal in welchem Format – Du gestaltest einen Screen ebenso gut und leidenschaftlich wie Du auch mal einen Prozess illustrierst oder eine Präsentation designst. Du hast ein Gespür für Marken und kannst Ideen, Werte, Konzepte in Farben und Typografie übersetzen. Dir macht es Spaß in einem Pitch oder in nutzerzentrierten Design-Sprints in kürzester Zeit herausragende Ergebnisse zu liefern, aber auch mal eigene Themen zu treiben und Teams zu inspirieren.
  
 ### Was dich bei uns erwartet: 
  
