@@ -1,7 +1,7 @@
 ---
     language: de
     location: Ham
-    discipline: tech
+    discipline: Tech
     level: all
     company: SinnerSchrader
     date: 2021-02-04
@@ -13,7 +13,7 @@
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 600 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Aktuell suchen wir an unserem Hamburger Standort ein:en **Werkstudent:in im Content Management (w/m/x/-)**.
+Aktuell suchen wir an unserem Hamburger Standort eine:n **Werkstudent:in im Content Management (w/m/x/-)**.
 
 Du würdest gerne Einblicke in eine der führenden Digitalagenturen bekommen? An der Realisierung von Onlineprojekten für namhafte Kunden arbeiten? Dabei Geld verdienen und gleichzeitig wertvolle Berufserfahrungen sammeln? Dann bist du bei uns genau richtig! 
 
