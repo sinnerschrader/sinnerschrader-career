@@ -33,7 +33,7 @@ Wir suchen ab sofort eine:n **Werkstudent:in Talent Management (m/w/x/-)**.
 
 - Verantwortung vom ersten Tag an, schnelle Entscheidungswege und flache Hierarchien
 - Abwechslungsreiche Aufgaben, Raum für Eigenverantwortung und eigene Ideen
-- Flexible Arbeitszeiten und eine angenehme Arbeitsatmosphäre
+- Flexible Arbeitszeiten
 - Tolle Benefits, eine entspannte Arbeitsatmosphäre und ein dynamisches Team
 
 Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich. 
