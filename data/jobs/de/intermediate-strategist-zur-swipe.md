@@ -4,7 +4,7 @@
     discipline: Strategy 
     level: all
     company: SinnerSchrader Swipe 
-    date: 2020-02-16
+    date: 2021-02-16
     published: true
     title: Strategist 
     description: hier
