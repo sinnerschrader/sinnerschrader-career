@@ -17,30 +17,27 @@ We are looking for a **Product Owner (f/m/d/-)** for our Zurich office.
 
 ### What you can expect from us:
 
-- Content management of the website relaunch of one of our automotive clients
-- Further development of existing requirements (user stories) and addition of acceptance criteria
-- Close coordination with the client on the scope of implementation, taking scope, time and budget into account
-- Content management of an international development team
-- Active management of the product backlog and prioritisation according to the requirements of all stakeholders and customers
-- Carrying out sprint plannings, reviews and backlog refinements
+- Identification and recording of stakeholder and customer requirements as well as concrete solution development together with the team
+- Content and operational management of a cross-functional development team
+- Active management of the product backlog and prioritization according to the requirements of all stakeholders and customers
+- Execution of sprint plannings, reviews and backlog refinements
 
-### This is what you should bring with you:
+### What you should bring with you:
 
-- Practical experience as a product owner or product manager in a digital environment
-- Confidence in the customer environment as well as experience with challenging project constellations and in working with international teams
-- Familiarity with agile mindset and methods
+- Practical experience as a product owner in a digital environment.
+- Familiarity with agile mindset & methods
 - Strong conceptual and analytical skills as well as a structured, proactive way of working
-- Good technical understanding and experience in developing frontend web applications (React)
-- Good understanding of UX and experience in coordinating the design implementation in the "discovery phase
-- Familiarity with the industry standard project management tool Jira
-- Very good communication and teamwork skills to achieve common goals
-- Very good German as well as good English skills are required
+- Experience with project control and requirements management tools (e.g. JIRA, Confluence)
+- Good communication skills
+- Team spirit to achieve goals together
+- Experience in working with internationally operating groups
+- Very good English skills
 
-### That's what we offer:
+### What we offer:
 
 - Exciting and technically challenging projects for well-known companies
 - Varied tasks, room for personal responsibility and own ideas
-- A lot of creative freedom and short decision-making processes
+- A lot of room for maneuver and short decision-making processes
 - Personal and professional development opportunities
 - Pleasant working atmosphere and a dynamic and innovative team
 
