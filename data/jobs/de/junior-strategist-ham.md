@@ -1,7 +1,7 @@
 ---
     language: de
     location: Ham
-    discipline: Account
+    discipline: Strategy
     level: all
     company: SinnerSchrader
     date: 2021-02-26
