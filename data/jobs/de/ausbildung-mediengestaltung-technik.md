@@ -15,6 +15,8 @@ SinnerSchrader gehört zu den führenden Design- und Technologie-Agenturen Europ
 
 In unserem Hamburger Office haben wir immer leckeren Kaffee, frisches Obst, ein gesundes Frühstück – und nette Mitarbeiter, die zusammen ein interdisziplinäres Team bilden. Aktuell sind wir alle im sicheren Home Office, aber wir hoffen natürlich, dass wir uns bald wieder alle persönlich im Büro sehen können. 
 
+SinnerSchrader unterstützt dich dabei, dein Homeoffice so angenehm wie möglich zu machen und versorgt dich mit Hardware, Software und Büromaterialien.
+
 Aktuell suchen wir eine:n **Auszubildende:n Mediengestalter:in Digital und Print – Fachrichtung Gestaltung und Technik (w/m/x) mit Schwerpunkt Technik**.
 
 Du würdest gerne Einblicke in eine der Top-Digitalagenturen Europas bekommen? An der Realisierung von Onlineprojekten für namhafte Kunden arbeiten?
