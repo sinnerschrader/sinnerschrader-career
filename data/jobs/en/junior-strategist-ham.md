@@ -26,6 +26,13 @@ We’re looking for strategists who want to unlock potential for experiences tha
 - Extensive Powerpoint and Keynote knowledge as well as first experience in creating convincing presentations
 - First experience in workshop and method design
 
+### Who we are:
+
+- You’ll join an international team with strategists from varied backgrounds, from sociologists to straight-up product strategists, from cultural omnivores to economists 
+- Our broad spectrum of strategic capabilities as a team today, is owed to our diverse experiences, skills, cultures and personalities
+- Our different backgrounds help us to understand, connect and translate between clients, client’s clients, colleagues and robots
+- As varied as our backgrounds and skill sets are, so is the role you’re taking on as strategist. It will be shaped by and around you
+
 ### What we offer:
 
 - Exciting and innovative projects for well-known companies
@@ -33,13 +40,6 @@ We’re looking for strategists who want to unlock potential for experiences tha
 - Professional and personal development
 - Creative exchange with your strategy team and cross-functional collaboration
 - Great benefits, a pleasant working atmosphere and short decision-making processes
-
-### Who we are:
-
-- You’ll join an international team with strategists from varied backgrounds, from sociologists to straight-up product strategists, from cultural omnivores to economists 
-- Our broad spectrum of strategic capabilities as a team today, is owed to our diverse experiences, skills, cultures and personalities
-- Our different backgrounds help us to understand, connect and translate between clients, client’s clients, colleagues and robots
-- As varied as our backgrounds and skill sets are, so is the role you’re taking on as strategist. It will be shaped by and around you
 
 ### Interested?
 
