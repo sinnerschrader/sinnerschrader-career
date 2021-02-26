@@ -11,7 +11,7 @@
     contact: victoria
 ---
 
-SinnerSchrader Swipe ist ein Studio für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg und Berlin. Wir entwickeln digitale Produkte - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS, Android und React Native. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Europa Park, Motel One, VW und Telefónica.
+SinnerSchrader gehört zu den führenden Design- und Technologie-Agenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, TUI, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Studios in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
 Für unseren Hamburger Standort suchen wir ab sofort eine:n **UX Researcher (w/m/x/-)**.
 
