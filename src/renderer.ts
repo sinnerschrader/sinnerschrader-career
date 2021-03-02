@@ -177,12 +177,15 @@ export class Renderer {
     console.info(chalk.green`Register date...`);
 
     Handlebars.registerHelper('convertDate', (date: Date) => {
-      let result = `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`;
+      const now = new Date();
+      let result = `${now.getDate()}.${now.getMonth() + 1}.${now.getFullYear()}`;
       try {
-        result = date.toISOString().split('T')[0].split('-').reverse().join('.');
+        result = `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`;
       } catch (e) {
-        console.info(chalk.red`The attempt to convert ${date} failed. The fallback ${result} was used.`)
+        console.info(chalk.red`The attempt to convert ${date} failed. Used now() with the following result: ${result}`)
+        console.info(chalk.red`The attempt to convert ${date} failed. Used now() with the following result: ${result}`)
       }
+
       return result;
     });
 
