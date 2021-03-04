@@ -19,7 +19,6 @@ Du möchtest gerne Einblicke in unser Arbeitsleben bekommen? Dabei Geld verdiene
 
 Für unser Berliner Studio suchen wir kompetente Unterstützung für das administrative Tagesgeschäft. Als Werkstudent:in im Office Management bist du in erster Linie Ansprechpartner:in für unsere Mitarbeiter:innen, Kunden und Dienstleister. Neben den klassischen Empfangstätigkeiten gehören zu deinen Aufgaben die Unterstützung bei der täglichen Büroorganisation, Durchführung von Bestellungen sowie die vorbereitende Buchhaltung. Deine Einsatz Location ist in erster Linie das Berliner Studio in der Bergmannstraße, es könnten auch Springer-Einsätze in unseren Berliner Accenture Büros vorkommen.
 
-
 ### Das solltest du mitbringen:
 
 - Starke Servicementalität 
