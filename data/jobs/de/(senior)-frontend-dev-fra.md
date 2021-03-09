@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2021-03-09
     published: true
-    title: (Senior)Frontend Developer
+    title: (Senior) Frontend Developer
     description: 
     contact: mela
 ---
