@@ -15,7 +15,7 @@ SinnerSchrader gehört zu den führenden Design- und Technologie-Agenturen Europ
 
 Für unseren Standort Frankfurt suchen wir eine:n **(Senior) Frontend Developer (w/m/x/-)**.
 
-Als Frontend Developer unterstützt du, gemeinsam mit dem Projektteam, unsere Kunden bei der Umsetzung von User Interfaces. Neben der Projektsteuerung ist es deine Aufgabe performante, intuitive User Interfaces zu entwickeln, wobei du Neues ausprobieren und moderne Technologien anwenden kannst.
+Als (Senior) Frontend Developer unterstützt du, gemeinsam mit dem Projektteam, unsere Kunden bei der Umsetzung von User Interfaces. Neben der Projektsteuerung ist es deine Aufgabe performante, intuitive User Interfaces zu entwickeln, wobei du Neues ausprobieren und moderne Technologien anwenden kannst.
 
 Außerhalb der Projektarbeit möchtest du das Frontend bei SinnerSchrader aktiv mitgestalten, voranbringen und dein Know-How mit den Kolleg:innen teilen. In projekttübergreifenden Codereviews kannst du dich zu unterschiedlichen Lösungsansätzen austauschen, dich bei AppCamps für Schüler:innen engagieren oder unsere OpenSource-Projekte vorantreiben.
 
@@ -38,7 +38,7 @@ Außerhalb der Projektarbeit möchtest du das Frontend bei SinnerSchrader aktiv 
 - Lösungsorientierung, hohes Verantwortungs- und Qualitätsbewusstsein
 - Flexibilität, Eigeninitiative und digitalen Pioniergeist
 
-Das bieten wir:
+### Das bieten wir:
 
 - Spannende und innovative Projekte mit namhaften Unternehmen
 - Abwechslungsreiche Aufgaben und Raum für Eigenverantwortung
