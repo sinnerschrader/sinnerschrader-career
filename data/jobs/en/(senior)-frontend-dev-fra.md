@@ -15,7 +15,7 @@ SinnerSchrader is one of the leading digital agencies in Europe with a focus on 
 
 We are looking for a **(Senior) Frontend Developer (f/m/d/-)** for our Frankfurt office.
 
-As a frontend developer you support our customers in the implementation of user interfaces together with the project team. In addition to project management, it is your task to develop performant, intuitive user interfaces, where you can try out new things and apply modern technologies.
+As a Senior Frontend Developer you support our customers in the implementation of user interfaces together with the project team. In addition to project management, it is your task to develop performant, intuitive user interfaces, where you can try out new things and apply modern technologies.
 
 Outside of project work, you would like to actively help shape and advance the frontend at SinnerSchrader and share your know-how with your colleagues. In cross-project code reviews, you can exchange ideas on different approaches to solutions, get involved in AppCamps for students, or drive our open source projects forward.
 
@@ -37,5 +37,14 @@ Outside of project work, you would like to actively help shape and advance the f
 - Basic understanding of backend technologies
 - Solution orientation, high sense of responsibility and quality awareness
 - Flexibility, initiative and digital pioneering spirit
+
+### This is what we offer:
+
+- High level of personal responsibility, fast decision-making and flat hierarchies
+- Exciting and innovative projects with well-known companies
+- Varied tasks and space for own ideas
+- Personal and professional development
+- Great Benefits
+- Pleasant working atmosphere, fun at work and an agile, innovative team
 
 Please send us your application documents by email only to <jobs@sinnerschrader.com>.
