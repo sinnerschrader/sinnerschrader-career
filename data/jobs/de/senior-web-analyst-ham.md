@@ -4,16 +4,16 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
-    date: 2021-01-20
+    date: 2021-03-10
     published: true
-    title: Senior Web Analyst 
+    title: Web Analyst 
     description: 
     contact: victoria
 ---
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas. Mit Fokus auf digitale Services, E-Commerce, Strategie und Kommunikation bietet SinnerSchrader die gesamte Bandbreite digitaler Agenturleistungen: Konzeption, Gestaltung und Entwicklung von Web-Plattformen, Mobile Apps, Service Design, Kampagnen, Media, Analytics und Personalisation.
 
-Aktuell suchen wir für unseren Standort in Hamburg eine:n **Senior Web Analyst (w/m/x/-)**.
+Aktuell suchen wir für unseren Standort in Hamburg eine:n **Web Analyst (w/m/x/-)**.
 
 Du hast eine Leidenschaft für anspruchsvolle analytische Aufgaben, kannst Dich immer wieder in andere Geschäftsmodelle hineindenken und hast Lust digitale Plattformen verschiedenster Märkte und Branchen nachhaltig für den Nutzer und das Business zu verbessern? Im Team Data helfen wir unseren Kunden, interaktive Konsumenten besser zu verstehen und anzusprechen sowie strategische und operative Maßnahmen mit Daten und Analysen zu unterstützen. Unsere Projekte umfassen dabei alle Tätigkeiten von Toolauswahl und Konzeption über Deep-Dive-Analysen und Handlungsempfehlungen bis zur Begleitung von Tests und Personalisierungsmaßnahmen.
 
