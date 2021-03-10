@@ -4,7 +4,7 @@
     discipline: Strategy
     level: Professionals
     company: SinnerSchrader
-    date: 2021-01-08
+    date: 2021-03-10
     published: true
     title: Experience Strategist
      
@@ -24,6 +24,13 @@ We are looking for strategists who want to transform the digital transformation.
 - Enjoy working in a multidisciplinary agency and client teams with a good understanding of highly agile working environment
 - Strong interest and experience in communication formats and storytelling to bring complex issues closer to different stakeholder groups
 - Experience in creating convincing presentations and workshop set-ups – and successfully representing them in front of the clients
+
+### Who we are:
+
+- You’ll join an international team with strategists from varied backgrounds, from sociologists to straight-up product strategists, from cultural omnivores to economists 
+- Our broad spectrum of strategic capabilities as a team today, is owed to our diverse experiences, skills, cultures and personalities
+- Our different backgrounds help us to understand, connect and translate between clients, client’s clients, colleagues and robots
+- As varied as our backgrounds and skill sets are, so is the role you’re taking on as strategist. It will be shaped by and around you
 
 ### What we offer:
 
