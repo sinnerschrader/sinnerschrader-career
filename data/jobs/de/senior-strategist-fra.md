@@ -4,7 +4,7 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
-    date: 2020-12-04
+    date: 2021-03-10
     published: true
     title: Senior Strategist
     description: 
@@ -24,6 +24,13 @@ Wir suchen Strategists, die die digitale Transformation transformieren wollen. S
 - Spaß an der Arbeit in multi-disziplinären Agentur- und Kundenteams mit einem tiefen Verständnis für ein hoch agiles Arbeitsumfeld
 - Erfahrung und methodisches Wissen für ein breites strategisches Aufgabenfeld – von der Analyse über Experience Design bis zur digitalen Businessstrategie
 - Souveränität bei der Erstellung überzeugender Präsentationen und Workshop set-ups – und der erfolgreichen Vertretung dieser vor dem Kunden
+
+### Wer wir sind:
+
+- Du wirst Teil eines internationalen Teams aus Strateg:innen mit unterschiedlichsten Werdegängen, von Soziolog:innen bis zu reinen Produkt-Strateg:innen, von kulturellen Omnivoren bis hin zu puren Wirtschaftswissenschaftler:innen
+- Unser breites Spektrum an strategischen Skills, die wir heute als Team vereinen, verdanken wir unseren individuellen Erfahrungen, Fähigkeiten und kulturellen Backgrounds
+- Mit unseren unterschiedlichen Hintergründen gelingt es uns, unsere Kunden, die Kunden unserer Kunden, Kolleg:innen und Bots zu verstehen, sie miteinander zu verbinden und die unterschiedlichen Anforderungen und “Sprachen” zu übersetzen
+- So vielfältig und unterschiedlich unsere Hintergründe und Fähigkeiten sind, so vielfältig ist auch die Rolle, die du als Strateg:in ein- und übernimmst. Du formst deine eigene Rolle und Stelle
 
 ### Das bieten wir:
 
