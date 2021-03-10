@@ -20,7 +20,7 @@ Du hast eine Leidenschaft für anspruchsvolle analytische Aufgaben, kannst Dich 
 ### Das kannst du bei uns erwarten:
 
 - Du betreust in einem Team end-to-end Analyticsprojekte von Anforderungsworkshops über die Konzeption und Implementierung bis zu Auswertungen und Optimierungsvorschlägen
-- Du kümmerst Dich um Datenqualität und erweiterst bestehende Implementierungen in TagManagern oder in Zusammenarbeit mit Entwickler:innen
+- Du kümmerst dich um das Tracking und Testen von Implementierungen in Web-Frontends, entweder durch das Einbringen von eigenem JavaScript-Code oder in Zusammenarbeit mit Entwickler:innen
 - Du unterstützt unsere Kunden mit Analysen in Adobe oder Google Analytics und hilfst bei der Weiterentwicklung der Daten- und Toollandschaft
 - Du bereitest Insights in Dashboards und Präsentationen auf, schaffst es, auch komplexe Zusammenhänge verständlich zu transportieren und unterstützt bei der Etablierung einer data-informed culture bei unseren Kunden
 - Du hast keine Angst über den Tellerrand zu schauen und berätst unsere Kunden auch bei A/B-Testing, Verzahnung mit Marketing-Tools, Nutzerführung durch Personalisierung, Integration von CRM-Daten und Verwendung von angrenzenden Methoden, wie Umfragen oder Heatmaps
