@@ -45,4 +45,4 @@ Dann bist du bei uns genau richtig!
 - Ein Agenturumfeld mit starker Kultur und Persönlichkeit – mit einer längeren Erfolgsgeschichte als Google, immer am Puls der digitalen Entwicklung
 - Großes Entwicklungspotenzial und Eigenverantwortung
 
-Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.
+Bitte sende uns deine Bewerbungsunterlagen (inklusive Link zu deinem online Portfolio) ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.
