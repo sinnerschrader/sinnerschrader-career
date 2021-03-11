@@ -45,6 +45,6 @@ Then you've come to the right place!
 - An agency environment with a strong culture and personality - with a longer track record than Google, always on the pulse of digital development
 - Great development potential and personal responsibility
 
-Please send us your application documents by email only to <jobs@sinnerschrader.com>. 
+Please send us your application documents (including a link to your online portfolio) by email only to <jobs@sinnerschrader.com>. 
  
 We look forward to hearing from you.
