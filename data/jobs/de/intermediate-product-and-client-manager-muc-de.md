@@ -4,7 +4,7 @@
     discipline: Account
     level: all
     company: SinnerSchrader
-    date: 2021-01-13
+    date: 2021-03-12
     published: true
     title: Product & Client Manager
     description: 
