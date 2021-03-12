@@ -4,7 +4,7 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
-    date: 2020-12-04
+    date: 2021-03-12
     published: true
     title: Data Scientist
     description: 
