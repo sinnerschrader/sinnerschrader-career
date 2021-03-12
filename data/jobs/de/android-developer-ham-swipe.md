@@ -4,7 +4,7 @@
     discipline: Tech
     level: all
     company: SinnerSchrader Swipe
-    date: 2020-12-04
+    date: 2021-03-12
     published: true
     title: Android Developer
     description: 
