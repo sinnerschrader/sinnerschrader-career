@@ -4,7 +4,7 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
-    date: 2021-10-03
+    date: 2021-03-10
     published: true
     title: Senior Strategist
     
