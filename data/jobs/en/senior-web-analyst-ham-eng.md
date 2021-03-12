@@ -4,7 +4,7 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
-    date: 2021-3-10
+    date: 2021-03-10
     published: true
     title: Web Analyst
     
