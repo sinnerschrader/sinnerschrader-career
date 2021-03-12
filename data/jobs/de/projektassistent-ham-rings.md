@@ -4,7 +4,7 @@
     discipline: Account 
     level: all
     company: SinnerSchrader
-    date: 2021-02-15
+    date: 2021-03-12
     published: true
     title: Projektassistenz mit Fokus auf Accounting
     description: 
