@@ -30,19 +30,19 @@ Dann passt du super zu uns, und wir sollten uns kennenlernen!
 - Erste Erfahrung in Workshop- und Methoden-Design
 - Sichere Kommunikation auf Englisch
 
+### Wer wir sind:
+
+- Du wirst Teil eines internationalen Teams aus Strateg:innen mit unterschiedlichsten Werdegängen, von Soziolog:innen bis zu reinen Produkt-Strateg:innen, von kulturellen Omnivoren bis hin zu puren Wirtschaftswissenschaftler:innen
+- Unser breites Spektrum an strategischen Skills, die wir heute als Team vereinen, verdanken wir unseren individuellen Erfahrungen, Fähigkeiten und kulturellen Backgrounds
+- Mit unseren unterschiedlichen Hintergründen gelingt es uns, unsere Kunden, die Kunden unserer Kunden, Kolleg:innen und Bots zu verstehen, sie miteinander zu verbinden und die unterschiedlichen Anforderungen und “Sprachen” zu übersetzen
+- So vielfältig und unterschiedlich unsere Hintergründe und Fähigkeiten sind, so vielfältig ist auch die Rolle, die Du als Strateg:in ein- und übernimmst. Du formst Deine eigene Rolle und Stelle
+
 ### Das bieten wir:
 
 - Spannende und innovative Projekte mit namhaften Unternehmen
 - Abwechslungsreiche Aufgaben und Raum für Eigenverantwortung
 - Fachliche und persönliche Weiterentwicklung, kreativer Austausch mit deinem Strategie- und dem SinnerSchrader-Team
 - Tolle Benefits, eine angenehme Arbeitsatmosphäre und kurze Entscheidungswege
-
-### Wer wir sind:
-
-- Du wirst Teil eines internationalen Teams aus Strateg:innen mit unterschiedlichsten Werdegängen, von Soziolog*innen bis zu reinen Produkt-Strateg:innen, von kulturellen Omnivoren bis hin zu puren Wirtschaftswissenschaftler:innen
-- Unser breites Spektrum an strategischen Skills, die wir heute als Team vereinen, verdanken wir unseren individuellen Erfahrungen, Fähigkeiten und kulturellen Backgrounds
-- Mit unseren unterschiedlichen Hintergründen gelingt es uns, unsere Kunden, die Kunden unserer Kunden, Kolleg:innen und Bots zu verstehen, sie miteinander zu verbinden und die unterschiedlichen Anforderungen und “Sprachen” zu übersetzen
-- So vielfältig und unterschiedlich unsere Hintergründe und Fähigkeiten sind, so vielfältig ist auch die Rolle, die Du als Strateg:in ein- und übernimmst. Du formst Deine eigene Rolle und Stelle
 
 ### Interesse?
  
