@@ -4,7 +4,7 @@
     discipline: Tech
     level: all
     company: SinnerSchrader Swipe
-    date: 2021-02-16
+    date: 2021-03-15
     published: true
     title: iOS Developer
     description: 

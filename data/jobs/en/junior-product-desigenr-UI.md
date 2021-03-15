@@ -4,7 +4,7 @@
     discipline: Creative
     level: all
     company: SinnerSchrader Swipe
-    date: 2021-02-04
+    date: 2021-03-15
     published: true
     title: Junior Product Designer UI
      

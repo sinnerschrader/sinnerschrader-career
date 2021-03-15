@@ -4,7 +4,7 @@
     discipline: Account
     level: all
     company: SinnerSchrader
-    date: 2021-02-26
+    date: 2021-03-15
     published: true
     title: Ausbildung Kaufmann/-frau* für Marketingkommunikation (w/m/x/–)
     description: 

@@ -4,7 +4,7 @@
     discipline: Tech
     level: all
     company: SinnerSchrader 
-    date: 2021-02-26
+    date: 2021-03-15
     published: true
     title: Ausbildung Mediengestalter:in Digital und Print – Fachrichtung Gestaltung und Technik mit Schwerpunkt Technik
     description: 
