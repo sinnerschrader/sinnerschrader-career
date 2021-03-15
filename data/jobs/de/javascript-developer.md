@@ -4,7 +4,7 @@
     discipline: Tech
     level: Professionals
     company: SinnerSchrader
-    date: 2021-03-12
+    date: 2021-03-15
     published: true
     title: JavaScript Developer
     description: 

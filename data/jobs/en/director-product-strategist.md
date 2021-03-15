@@ -4,7 +4,7 @@
     discipline: Strategy
     level: Professionals
     company: SinnerSchrader
-    date: 2021-01-08
+    date: 2021-03-15
     published: true
     title: Director Product Strategy
      

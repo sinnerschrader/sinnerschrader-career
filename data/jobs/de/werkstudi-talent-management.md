@@ -4,7 +4,7 @@
     discipline: CF
     level: all
     company: SinnerSchrader
-    date: 2021-02-12
+    date: 2021-03-15
     published: true
     title: Werkstudent:in Talent Management 
     description: 

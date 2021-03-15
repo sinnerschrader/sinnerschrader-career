@@ -4,7 +4,7 @@
     discipline: Strategy
     level: Professionals
     company: SinnerSchrader Content
-    date: 2021-01-08
+    date: 2021-03-15
     published: true
     title: Senior Content Strategist
     description: 
