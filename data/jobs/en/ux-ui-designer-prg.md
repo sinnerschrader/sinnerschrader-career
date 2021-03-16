@@ -1,6 +1,6 @@
 ---
     language: en
-    location: Prague 
+    location: Pra 
     discipline: Creative
     level: all
     company: SinnerSchrader
