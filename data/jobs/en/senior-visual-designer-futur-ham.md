@@ -15,7 +15,7 @@ SinnerSchrader is one of the leading digital agencies in Europe with a focus on 
 
 For our location in Hamburg, we are looking for a **(Senior) Visual Designer (f/m/d/-)**.
 
-As a Senior Visual Designer, you love good design, no matter what format - you design a screen just as well and passionately as you illustrate a process or design a presentation. You have a feel for brands and can translate ideas, values and concepts into colours and typography. You enjoy delivering outstanding results in a pitch or in user-centred design sprints in the shortest possible time, but you also enjoy driving your own themes and inspiring teams.
+As a (Senior) Visual Designer, you love good design, no matter what format - you design a screen just as well and passionately as you illustrate a process or design a presentation. You have a feel for brands and can translate ideas, values and concepts into colours and typography. You enjoy delivering outstanding results in a pitch or in user-centred design sprints in the shortest possible time, but you also enjoy driving your own themes and inspiring teams.
  
 ### What you can expect from us: 
  
