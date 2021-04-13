@@ -11,7 +11,7 @@
     contact: victoria
 ---
 
-SinnerSchrader Swipe is a studio focusing on digital product management, user interface design and software engineering, based in Hamburg, Berlin and Zurich. We develop Maximum Loveable Products - radically user-centric services with a focus on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS, Android and React Native. Our portfolio includes companies from the mobility, automotive, lifestyle and telecommunications sectors. Well-known customers include Audi, Motel One, VW and Telefónica.
+SinnerSchrader Swipe is a studio focusing on digital product management, user interface design and software engineering, based in Hamburg, Berlin and Zurich. We develop Maximum Loveable Products - radically user-centric services with a focus on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS and Android. Our portfolio includes companies from the mobility, automotive, lifestyle and telecommunications sectors. Well-known customers include Audi, Motel One, VW and Telefónica.
 
 For our Zurich location we are looking for a **Strategist (f/m/d/-)**.
 
