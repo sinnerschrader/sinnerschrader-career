@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2021-03-15
     published: true
-    title: Ausbildung Kaufmann/-frau* für Marketingkommunikation (w/m/x/–)
+    title: Ausbildung Kaufmann/-frau* für Marketingkommunikation
     description: 
     contact: annika
 ---
