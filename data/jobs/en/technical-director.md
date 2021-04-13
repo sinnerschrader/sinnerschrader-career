@@ -10,7 +10,7 @@
      
     contact: mela
 ---
-SinnerSchrader Swipe is a studio for mobile product management, design and software engineering with offices in Hamburg and Berlin. We develop maximum lovable products – radically user-centered services focusing on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS, Android and React Native. Our portfolio includes companies in sectors such as mobility, automotive, lifestyle and telecom. Some of our better known clients are Audi, Raumfeld, VW and Telefónica.
+SinnerSchrader Swipe is a studio for mobile product management, design and software engineering with offices in Hamburg, Berlin and Zurich. We develop maximum lovable products – radically user-centered services focusing on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS and Android. Our portfolio includes companies in sectors such as mobility, automotive, lifestyle and telecom. Some of our better known clients are Audi, Raumfeld, VW and Telefónica.
 
 We are currently looking for a **Technical Director (f/m/d/-)** at our Hamburg office.
 
