@@ -11,7 +11,7 @@
     contact: victoria
 ---
 
-SinnerSchrader Swipe ist ein Studio mit dem Schwerpunkt auf  Digital Product Management, UserInterface Design und Software Engineering mit Sitz in Hamburg, Berlin und Zürich. Wir entwickeln Maximum Loveable Products - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS, Android und React Native. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Motel One,VW und Telefónica. 
+SinnerSchrader Swipe ist ein Studio mit dem Schwerpunkt auf  Digital Product Management, UserInterface Design und Software Engineering mit Sitz in Hamburg, Berlin und Zürich. Wir entwickeln Maximum Loveable Products - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS und Android. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Motel One,VW und Telefónica. 
 
 Für unseren Standort in Zürich suchen wir ab sofort eine:n **Strategist (w/m/x/-)**.
 
