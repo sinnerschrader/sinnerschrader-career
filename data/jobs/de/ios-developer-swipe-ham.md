@@ -11,7 +11,7 @@
     contact: mela
 ---
 
-SinnerSchrader Swipe ist ein Studio für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg und Berlin. Wir entwickeln Maximum Loveable Products - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS, Android und React Native. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Raumfeld, VW und Telefónica.
+SinnerSchrader Swipe ist ein Studio für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg, Berlin und Zürich. Wir entwickeln Maximum Loveable Products - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS und Android. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Raumfeld, VW und Telefónica.
 
 Aktuell suchen wir für unseren Hamburger Standort eine:n **iOS Developer (w/m/x/-)**.
 
