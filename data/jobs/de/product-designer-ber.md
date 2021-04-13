@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2021-04-12
     published: true
-    title: Product Designer
+    title: Product Designer UX/UI
     description: 
     contact: victoria
 ---
