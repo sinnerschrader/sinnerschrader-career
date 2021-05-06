@@ -17,7 +17,7 @@ For our Berlin location we are looking for a **(Senior) Product Owner** (f/m/d/-
 
 ### Your tasks:
 
-- Identification and recording of stakeholder and customer requirements as well as concrete solution development together with the team.
+- Identification and recording of stakeholder and customer requirements as well as concrete solution development together with the team
 - Content and operational management of an international cross-functional development team
 - Contribute to the development of the project's product vision
 - Client consulting for feature development
@@ -25,7 +25,7 @@ For our Berlin location we are looking for a **(Senior) Product Owner** (f/m/d/-
 
 ### Your profile:
 
-- Practical experience as a product owner or product manager in a digital environment.
+- Practical experience as a product owner or product manager in a digital environment
 - Confidence in the client environment as well as experience with challenging project constellations and in working with international teams
 - Familiarity with agile mindset and methods
 - Strong conceptual and analytical skills as well as a structured, proactive way of working
