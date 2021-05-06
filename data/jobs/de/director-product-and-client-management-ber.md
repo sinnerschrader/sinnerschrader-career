@@ -26,7 +26,7 @@ Für dein Product & Client Management Team bist du Teamleiter:in und Mentor:in z
 - Du bietest fachliche Unterstützung und Steering projektübergreifend
 - Du führst, koordinierst und informierst das Projektteam deiner eigenen Projekte
 - Du hast die Planung und das Controlling deiner Projekte und die deines Teams immer im Blick
-- Du bist zentrale Schnittstelle zwischen Product & Client Managern, Controlling und Mitarbeiter:innenplanung
+- Du bist zentrale Schnittstelle zwischen Product & Client Managemet, Controlling und Mitarbeiter:innenplanung
 - Du bist für die Kundenberatung, -begleitung und -führung verantwortlich und baust erfolgreich langfristige sowie vertrauensvolle Beziehungen zu Kunden auf
 - Du zeichnest dich durch ein unternehmerisches Mindset aus
 - Du unterstützt die Studioleitung mit fachlichem Know-how und Weitblick
