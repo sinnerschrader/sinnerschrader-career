@@ -24,9 +24,11 @@ Bei uns triffst du aktuell unter anderem auf folgende Technologien: TypeScript, 
 - Solide Kenntnisse in Technologien wie React und Typescript
 - Erfahrung mit Contentful oder einem vergleichbaren CMS
 - Erfahrung mit Entwicklungsparadigmen wie Design Patterns, Clean Code, Agile Development (Scrum/Extreme Programming)
-- Was dich bei uns erwartet:
+
+### Was dich bei uns erwartet:
+
 - Du entwickelst für Contentful UI-Components, Extension und Services
-- Du wirst unter anderem AWS, React, TypeScript, Node.js verwenden.
+- Du wirst unter anderem AWS, React, TypeScript, Node.js verwenden
 - Du arbeitest agil und in cross-funktionalen Teams und teilst dein Wissen mit deinen Kolleg:innen
 - Du entwickelst test-getriebene Software und beteiligst dich an Code Reviews und technischen Diskussionen
 
