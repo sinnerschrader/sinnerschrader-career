@@ -21,24 +21,24 @@ Currently you will encounter the following technologies: TypeScript, HTML, CSS, 
 
 ### Your profile:
 
-- Solid knowledge of technologies like React and Typescript.
+- Solid knowledge of technologies like React and Typescript
 - Experience with Contentful or a comparable CMS
-- Experience with development paradigms like Design Patterns, Clean Code, Agile Development (Scrum/Extreme Programming).
+- Experience with development paradigms like Design Patterns, Clean Code, Agile Development (Scrum/Extreme Programming)
 
 ### What to expect from us:
 
-- You will develop UI components, extension and services for Contentful.
-- You will be using AWS, React, TypeScript, Node.js, among others.
-- You will work in an agile way in cross-functional teams and share your knowledge with your colleagues.
-- You will develop test-driven software and participate in code reviews and technical discussions.
+- You will develop UI components, extension and services for Contentful
+- You will be using AWS, React, TypeScript, Node.js, among others
+- You will work in an agile way in cross-functional teams and share your knowledge with your colleagues
+- You will develop test-driven software and participate in code reviews and technical discussions
 
 ### What we offer you:
 
-- Independent work in cross-functional teams across our locations.
+- Independent work in cross-functional teams across our locations
 - Intensive exchange with our active internal developer community
 - Room for your own ideas
 - Work in one of our studios or also from home
-- You get a time, which you can use for your own further education. Either in one of our regular trainings, internal professional workshops or conference visits.
+- You get a time, which you can use for your own further education. Either in one of our regular trainings, internal professional workshops or conference visits
 
 ### Interested?
 
