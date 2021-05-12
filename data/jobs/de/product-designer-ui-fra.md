@@ -28,7 +28,6 @@ Als zupackende:r Gestalter:in bist du mal Ideengeber:in, mal Aggregator:in in de
 - Erstellen und Halten von Kunden-Präsentationen
 - Durchführung von internen und externen Workshops
 
-
 ## Das solltest du mitbringen:
 
 - Ein aussagekräftiges Portfolio mit Case Studies und abgeschlossenen Arbeiten
