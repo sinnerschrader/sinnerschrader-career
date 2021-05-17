@@ -1,6 +1,6 @@
 ---
     language: de
-    location: Ham
+    location: Ber
     discipline: Account
     level: all
     company: SinnerSchrader
