@@ -31,7 +31,7 @@ Als UX Researcher hast du die Fähigkeit, komplexe Kundenanfragen auf das Kernpr
 - Fähigkeit, Wissenslücken in Projekten zu identifizieren und diese gemeinsam mit Kunden und dem Designteam in Forschungsmöglichkeiten zu übersetzen
 - Ein Toolbelt von gemischten Methoden mit dem Verständnis, wann welche Methode in welcher Situation angewendet werden sollte
 - Bereitschaft zu experimentieren und offen zu sein
-- Befähigung und Ermutigung von Kollegen, an Studien teilzunehmen und diese durchzuführen
+- Befähigung und Ermutigung von Kolleg:innen, an Studien teilzunehmen und diese durchzuführen
 - Engagierte und kollaborative Denkweise bei der Arbeit in unseren multidisziplinären Teams  
 - Sehr gute Kommunikations- und Teamarbeitsfähigkeiten
 - Fähigkeit, Forschungsaktivitäten an eine agile Arbeitsweise anzupassen
