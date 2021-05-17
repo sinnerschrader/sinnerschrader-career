@@ -15,7 +15,7 @@
 Taking Ownership from start to finish – at Accenture Interactive we’re committed to helping design, build, communicate and run experiences that make peoples’ lives better, more productive and more meaningful. Our mission: We drive sustainable growth for clients by creating meaningful Experiences that live at the intersection of purpose and innovation. 
 Join our Talent Acquisition Team as a **Senior Tech Recruiter (f/m/d/-)** and help Accenture Interactive and our beloved family members Fjord, Kolle Rebbe, Mackevision and SinnerSchrader to find people who love building products that matter. For now. For later. We’re a bunch of people who are passionate about recruiting as an enabler for growth and the driver of culture and diversity. We like to rethink things and fell in love with the speed of technological change and the uncertainty of things. We believe two heads are always better than one, and a whole team of heads is even better. That’s how we work. Your personality and individuality can make a difference.  
  
-## Make Accenture More You 
+## What you can expect from us 
 - Discover Talents! You recruit specialists and managers in the digital industry with a focus on software engineering and data science. 
 - Recruiting is your passion: You conduct briefing discussions with the respective departments and advise on the search profile. 
 - Candidate experience first: You manage the recruiting process from channel selection to signing the contract. 
