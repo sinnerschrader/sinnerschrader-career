@@ -8,7 +8,7 @@
     published: true
     title: Technical Director
     description: 
-    contact: mela
+    contact: michael
 ---
 
 Aktuell suchen wir für unseren Hamburger Standort eine:n **Technical Director (w/m/x/-)**.

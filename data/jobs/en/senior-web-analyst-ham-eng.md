@@ -4,7 +4,15 @@
     discipline: Strategy
     level: all
     company: SinnerSchrader
+<<<<<<< HEAD
     date: 2021-03-15
+=======
+<<<<<<< HEAD
+    date: 2021-03-10
+=======
+    date: 2021-03-15
+>>>>>>> 90a31c2f7917bf25cf6730edc92bced2db3e28d9
+>>>>>>> feat: add michael as contact person for product engineering
     published: true
     title: Web Analyst
     

@@ -8,7 +8,7 @@
     published: true
     title: Android Developer
     description: 
-    contact: mela
+    contact: michael
 ---
 
 SinnerSchrader Swipe ist ein Studio für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg, Berlin und Zürich. Wir entwickeln Maximum Loveable Products - radikal nutzerzentrierte Services mit Fokus auf mobile Touchpoints. Unsere Kernkompetenzen sind Experience Design, Strategie sowie Mobile Engineering für iOS und Android. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle oder Telekommunikation. Namhafte Kunden sind unter anderem Audi, Raumfeld, VW und Telefónica.

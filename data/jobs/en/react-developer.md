@@ -8,7 +8,7 @@
     published: true
     title: ReactJS Developer
     
-    contact: mela
+    contact: michael
 ---
 
 SinnerSchrader is looking for a React focused JavaScript developer. As part of our cross-functional Scrum teams, you will be working on existing and new React applications.

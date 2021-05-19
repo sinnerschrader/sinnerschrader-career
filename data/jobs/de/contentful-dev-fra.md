@@ -13,7 +13,7 @@
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Allianz, Audi, comdirect bank, ERGO, Telefónica, Unitymedia, cosnova und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Für unseren Standort Frankfurt suchen wir eine:n Contentful Developer (w/m/x/-).
+Für unseren Standort Frankfurt suchen wir eine:n **Contentful Developer (w/m/x/-)**.
 
 Als Contentful Developer unterstützt du, gemeinsam mit dem Projektteam, unsere Kunden bei der Umsetzung von Web Applikationen. Du hilfst uns dabei performante Plattformen zu entwickeln, wobei du Neues ausprobieren und moderne Technologien anwenden kannst.
 
