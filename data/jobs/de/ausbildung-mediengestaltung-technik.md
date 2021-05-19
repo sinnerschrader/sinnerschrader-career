@@ -8,7 +8,7 @@
     published: true
     title: Ausbildung Mediengestalter:in Digital und Print – Fachrichtung Gestaltung und Technik mit Schwerpunkt Technik
     description: 
-    contact: annika
+    contact: daniel
 ---
 
 SinnerSchrader gehört zu den führenden Design- und Technologie-Agenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Audi, comdirect bank, ERGO, Telefónica, TUI, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Studios in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
