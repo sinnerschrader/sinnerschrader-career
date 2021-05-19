@@ -40,6 +40,4 @@ You do not understand content in isolation, but as part of a holistic strategy o
 - Analytical observation skills, empathic judgement, creativity and enjoy innovation
 - A desire to work in a multidisciplinary agency and highly agile working environments
 
-
-
 Please send your complete application by email only to <jobs@sinnerschrader.com>. We look forward to hearing from you.
