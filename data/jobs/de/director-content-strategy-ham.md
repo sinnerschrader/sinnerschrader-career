@@ -11,9 +11,9 @@
     contact: victoria
 ---
 
-SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie ADAC, Allianz, Audi, Bosch, Goertz, OTTO, MINI und Volkswagen.SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München, Zürich und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
+SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie ADAC, Allianz, Audi, Bosch, Görtz, OTTO, MINI und Volkswagen. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München, Zürich und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
 
-Innerhalb der Gruppe steht das SinnerSchrader Digital Marketing Studio die Aufgabe, Nutzer für neue Produkte zu begeistern. Mit einem klaren Fokus auf Content und Performance Marketing entwerfen wir end-to-end Customer Experiences, erstellen daten-informierten Content mit kreativem Qualitätsanspruch und begleiten Kunden strategisch, kreativ und technisch bei ihren Wachstumsambitionen. 
+Innerhalb der Gruppe hat das SinnerSchrader Digital Marketing Studio die Aufgabe, Nutzer für neue digitale Produkte und Plattformen zu begeistern. Mit einem klaren Fokus auf Content und Performance Marketing entwerfen wir end-to-end Customer Experiences, erstellen daten-informierten Content mit kreativem Qualitätsanspruch und begleiten Kunden strategisch, kreativ und technisch bei ihren Wachstumsambitionen. 
 
 Derzeit suchen wir an unserem Hamburger Standort eine:n **Senior / Director Content Strategy** (w/m/x/-).
 
@@ -21,7 +21,7 @@ Du verstehst Content nicht isoliert, sondern als Teil einer ganzheitlichen Strat
 
 ## Deine Aufgaben:
 
-- Durchführung von Zielgruppen, Wettbewerbs- und Marktanalysen
+- Durchführung von Zielgruppen-, Wettbewerbs- und Marktanalysen
 - Entwicklung von digitalen Content-Strategien und redaktionellen Konzepten für B2C- und B2B-Kunden
 - Analyse, Bewertung und Optimierung der Content-Projekte unserer Kunden (Content Audit, Formatentwicklung, neue Content-Ideen, Redaktionsprozesse, …)
 - Entwicklung und strategische Begleitung von KPI-orientierten Kommunikations- und Marketingmaßnahmen
