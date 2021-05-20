@@ -11,9 +11,9 @@
     contact: victoria
 ---
 
-SinnerSchrader is one of Europe's leading digital agencies with a focus on the design and development of digital products and services. More than 500 employees work on digital transformation for companies such as ADAC, Allianz, Audi, Bosch, Goertz, OTTO, MINI and Volkswagen.SinnerSchrader was founded in 1996, has been listed on the stock exchange since 1999 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich, Zurich and Prague. Since April 2017, SinnerSchrader has been part of Accenture Interactive.
+SinnerSchrader is one of Europe's leading digital agencies with a focus on the design and development of digital products and services. More than 500 employees work on digital transformation for companies such as ADAC, Allianz, Audi, Bosch, Görtz, OTTO, MINI and Volkswagen. SinnerSchrader was founded in 1996, has been listed on the stock exchange since 1999 and has offices in Hamburg, Berlin, Frankfurt am Main, Munich, Zurich and Prague. Since April 2017, SinnerSchrader has been part of Accenture Interactive.
 
-Within the group, the SinnerSchrader Digital Marketing Studio is tasked to inspire users for new products. With a clear focus on content and performance marketing, we design end-to-end customer experiences, create data-informed content with creative quality standards and accompany clients strategically, creatively and technically in their growth ambitions. 
+Within the group, the SinnerSchrader Digital Marketing Studio is tasked to inspire users for new digital products and platforms. With a clear focus on content and performance marketing, we design end-to-end customer experiences, create data-informed content with creative quality standards and accompany clients strategically, creatively and technically in their growth ambitions. 
 
 We are currently looking for a **Senior / Director Content Strategy (f/m/x/-)** at our Hamburg location.
 
