@@ -6,14 +6,14 @@
     company: SinnerSchrader
     date: 2021-03-15
     published: true
-    title: Web Analyst
+    title: (Junior) Web Analyst
     
     contact: victoria
 ---
 
 SinnerSchrader is one of Europe's leading digital agencies. With a focus on digital services, e-commerce, strategy and communication, SinnerSchrader offers the entire range of digital agency services: conception, design and development of web platforms, mobile apps, service design, campaigns, media, analytics and personalisation.
 
-We are currently looking for a **Web Analyst (f/m/d/-)** at our Hamburg office.
+We are currently looking for a **(Junior) Web Analyst (f/m/d/-)** at our Hamburg office.
 
 Are you passionate about demanding analytical tasks, are you able to work with different business models and do you want to sustainably improve digital platforms of the various markets and industries for users and business? In Team Data, we help our clients to better understand and address interactive consumers by supporting strategic and operational measures with data and analysis. Our projects include all activities from tool selection and design through deep-dive analyses and recommendations for action up to monitoring tests and personalisation measures.
 
