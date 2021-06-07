@@ -1,19 +1,19 @@
 ---
     language: de
     location: Ham
-    discipline: Strategy
+    discipline: General
     level: all
     company: SinnerSchrader 
     date: 2021-06-02
     published: true
-    title: Senior Business Analyst
+    title: (Senior) Business Analyst
     contact: victoria
 ---
 
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 600 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Allianz, Audi, Bosch, comdirect Bank und VW. SinnerSchrader wurde 1996 gegründet und hat Studios in Hamburg, Berlin, Frankfurt am Main, München und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
  
-Aktuell suchen wir für unseren Standort in Hamburg ein:en **Senior Business Analyst (w/m/x/-)**.
+Aktuell suchen wir für unseren Standort in Hamburg ein:en **(Senior) Business Analyst (w/m/x/-)**.
  
 Du hast immer alle Zahlen im Blick und unterstützt deine Projektleiter:in in den Studios mit Sorgfalt dabei, den Monatsabschluss vorzubereiten. Du hast Lust auf Projekt-Controlling, Kalkulation und Administration. Controlling-Reports, Forecast-Planung und Abrechnungen sind deine Welt und du würdest deine Arbeitsweise als akribisch bezeichnen? Gleichzeitig übernimmst du gerne Ad hoc Anfragen und die Erstellung von Reports.
  
