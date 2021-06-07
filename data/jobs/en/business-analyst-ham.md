@@ -1,18 +1,18 @@
 ---
     language: en
     location: Ham
-    discipline: Strategy
+    discipline: General
     level: all
     company: SinnerSchrader
     date: 2021-06-02
     published: true
-    title: Senior Business Analyst
+    title: (Senior) Business Analyst
     contact: victoria
 ---
 
 SinnerSchrader is one of the leading digital agencies in Europe with a focus on the design and development of digital products and services. More than 600 employees work on the digital transformation for companies such as Allianz, Audi, Bosch, comdirect Bank and VW. SinnerSchrader was founded in 1996 and has studios in Hamburg, Berlin, Frankfurt am Main, Munich and Prague. Since April 2017, SinnerSchrader is part of Accenture Interactive.
  
-We are currently looking for a **Senior Business Analyst (f/m/x/-)** for our location in Hamburg.
+We are currently looking for a **(Senior) Business Analyst (f/m/x/-)** for our location in Hamburg.
  
 You always have an eye on all the figures and carefully support your project managers in the studios in preparing the monthly financial statements. You are interested in project controlling, costing and administration. Controlling reports, forecast planning and accounting are your world and you would describe your way of working as accurate? At the same time, you like to take on ad hoc requests and the creation of reports.
 
