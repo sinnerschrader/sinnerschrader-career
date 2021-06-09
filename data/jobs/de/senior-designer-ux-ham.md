@@ -3,7 +3,7 @@
     location: Ham
     discipline: Creative
     level: All
-    company: SinnerSchrader
+    company: SinnerSchrader Swipe
     date: 2021-06-08
     published: true
     title: Senior UX Designer
@@ -12,7 +12,7 @@
 
 SinnerSchrader Swipe ist ein Studio mit Schwerpunkt auf für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg, Berlin und Zürich. Wir entwickeln digitale Produkte - radikal nutzerzentrierte Services mit Fokus auf digitale (mobile) Touchpoints. Unsere Kernkompetenzen sind Experience Design, Product Design, Strategie sowie Mobile Engineering für iOS und Android. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle und Public Service & Health. Namhafte Kunden sind unter anderem Audi, Europa Park, Motel One, VW und ADAC. Außerdem unterstützen wir mit unseren digitalen Lösungen die Bekämpfung der Pandemie.
 
-Für unseren Hamburger Standort suchen wir ab sofort eine:n **Senior Product Designer UX (w/m/x)**.
+Für unseren Hamburger Standort suchen wir ab sofort eine:n **Senior Product Designer UX (w/m/x/-)**.
 
 Als zupackende:r Senior UX Designer bist du mal Ideengeber:in, mal Aggregator:in in der intensiven Zusammenarbeit von Research, Product Design, Product Strategy, Product Engineering und Product and Client Management. Was dir fremd ist, macht dich neugierig, Vertrautem begegnest du mit selbstkritischer Distanz. Dein hervorragendes Gespür und Empathie für Kundenbedürfnisse und Product Design treibt dich an zur Suche nach der besten Lösung. Sensible Visualität, eine hohe Qualität und nutzerzentriertes Denken sind dir gleichermaßen wichtig. Du findest schnell überzeugende Lösungsansätze und bist führende gestalterische Kraft bei der Neukundengewinnung und lieferst mit deiner Arbeit einen echten Mehrwert für unsere Bestandskunden.
 
@@ -41,4 +41,4 @@ Als zupackende:r Senior UX Designer bist du mal Ideengeber:in, mal Aggregator:in
 - Ein Agenturumfeld mit starker Kultur und Persönlichkeit – mit einer längeren Erfolgsgeschichte als Google, immer am Puls der digitalen Entwicklung
 - Großes Entwicklungspotenzial und Eigenverantwortung
 
-Bitte sende uns deine Bewerbungsunterlagen ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.
+Bitte sende uns deine Bewerbungsunterlagen (inklusive Link zu deinem online Portfolio) ausschließlich per E-Mail an <jobs@sinnerschrader.com>. Wir freuen uns auf dich.
