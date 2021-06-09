@@ -23,15 +23,15 @@ Das Design unserer Produkte - allen voran der NEXT Conference - soll künftig in
 - Gestaltung der NEXT-Plattform und -Kommunikation
 - Entwicklung von Kampagnen und Keyvisuals
 - Design für Social Media Kanäle und Ads
-- AD in Zusammenarbeit mit verschiedenen Dienstleistern
+- Art Direction in Zusammenarbeit mit verschiedenen Dienstleistern
 - Gestaltung interner und externer Kommunikationsmittel für SinnerSchrader und Accenture Interactive
 
 ## Das solltest du mitbringen:
 - Erfahrung und vielseitige Fähigkeiten als Product Designer
 - Kenntnisse in UX
-- Design-Kenntnisse in den branchenüblichen Tools wie Sketch, Figma, Keynote/ Powerpoint, Adobe Creative Cloud
-- Hohes Verständnis für digitale Gestaltung insbesondere Videoschnitt / Animation / Motion Design
-- zusätzliche Print-Expertise von Vorteil
+- Design-Kenntnisse in den branchenüblichen Tools wie Sketch, Figma, Keynote, Powerpoint und Adobe Creative Cloud
+- Hohes Verständnis für digitale Gestaltung insbesondere Videoschnitt, Animation und Motion Design
+- Zusätzliche Print-Expertise von Vorteil
 
 ## Das bieten wir:
 - Sehr abwechslungsreiche Aufgaben und Raum für eigene Ideen
