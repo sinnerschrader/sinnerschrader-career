@@ -6,7 +6,7 @@
     company: SinnerSchrader Swipe
     date: 2021-06-08
     published: true
-    title: Senior UX Designer 
+    title: Senior Product Designer UX
     contact: victoria
 ---
 
