@@ -23,7 +23,7 @@ Du würdest gerne Einblicke in eine der Top-Digitalagenturen Europas bekommen? A
 
 Bei uns lernst du Internetwirtschaft von der Pike auf und arbeitest von Anfang an in einem interdisziplinären Team an der Realisierung unserer anspruchsvollen Kundenprojekte. Während der Ausbildung lernst du das Projektgeschäft aus verschiedenen Perspektiven kennen und und bekommst schnell erste Verantwortung übertragen. Neben kaufmännischen Inhalten wie Kalkulation, Angebotserstellung und Projektcontrolling sammelst du Erfahrung in weiteren Disziplinen wie Design und Technik. Zeig’ deine kommunikative Stärke und dein Organisationstalent und lerne, Projekte professionell zu managen und Kunden zu beraten. 
 
-In 2,5 Jahren lernst du alles Notwendige für die Position des Junior Account Managers, um zur Drehscheibe unserer Projekte in der Ideenfindungs-, Konzeptions-, Design- und Umsetzungsphase zu werden. 
+In 3 Jahren lernst du alles Notwendige für die Position des Junior Account Managers, um zur Drehscheibe unserer Projekte in der Ideenfindungs-, Konzeptions-, Design- und Umsetzungsphase zu werden. 
  
 ### Das solltest du mitbringen
 
