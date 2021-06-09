@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2021-05-25
     published: true
-    title: Team Lead Developer
+    title: Frontend Developer
 
     contact: monika
 ---
