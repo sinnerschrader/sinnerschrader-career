@@ -22,14 +22,14 @@ The design of our products - especially the NEXT Conference - should be in your 
 - Design of the NEXT platform and communication
 - Development of campaigns and key visuals
 - Design for social media channels and ads
-- AD in cooperation with various service providers
+- Art Direction in cooperation with various service providers
 - Design of internal and external communication tools for SinnerSchrader and Accenture Interactive
 
 ## What you should bring along:
 - Experience and versatile skills as a product designer
 - Knowledge of UX
-- Design skills in industry standard tools such as Sketch, Figma, Keynote/ Powerpoint, Adobe Creative Cloud
-- High understanding of digital design especially video editing / animation / motion design
+- Design skills in industry standard tools such as Sketch, Figma, Keynote, Powerpoint and Adobe Creative Cloud
+- High understanding of digital design especially video editing, animation and motion design
 - Additional print expertise would be an advantage
 
 ## What we offer:
@@ -39,4 +39,3 @@ The design of our products - especially the NEXT Conference - should be in your 
 - Great benefits, a pleasant working atmosphere and fun at work
 
 Please send your complete application by email only to <jobs@sinnerschrader.com>. We look forward to hearing from you.
-
