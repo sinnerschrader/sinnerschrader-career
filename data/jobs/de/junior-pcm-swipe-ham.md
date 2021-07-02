@@ -17,7 +17,7 @@ Aktuell suchen wir für unseren Hamburger Standort eine:n **Junior Product & Cli
  
 ### Was dich bei uns erwartet:
  
-- Du steuerst Teilprojekte und kleinere Projekte mit digitalem Background und koordinierst interdisziplinäre Teams unter Anleitung deiner Kollegen
+- Du steuerst Teilprojekte und kleinere Projekte mit digitalem Background und koordinierst interdisziplinäre Teams unter Anleitung deiner Kolleg:innen
 - Du übernimmst erste beratende Tätigkeiten in einer Agentur-Kunde-Beziehung, indem du dich gerne mit den Geschäftsmodellen unserer Kunden auseinandersetzt und dir aktiv Wissen aneignest
 - Du lernst die Grundlagen des Projektcontrollings, um deine Projekte zukünftig eigenständig wirtschaftlich erfolgreich zu führen
  
