@@ -3,7 +3,7 @@
     location: Ham
     discipline: Account
     level: all
-    company: SinnerSchrader
+    company: SinnerSchrader Swipe
     date: 2021-07-05
     published: true
     title: Junior Product & Client Manager
