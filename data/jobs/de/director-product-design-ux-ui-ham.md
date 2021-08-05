@@ -4,7 +4,7 @@
     discipline: Creative
     level: Professionals
     company: SinnerSchrader
-    date: 2021-03-15
+    date: 2021-08-01
     published: true
     title: Director Product Design UX/UI
     description: 
