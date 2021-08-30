@@ -1,7 +1,7 @@
 ---
     language: en
     location: Ber
-    discipline: General
+    discipline: CF
     level: all
     company: SinnerSchrader
     date: 2021-07-19
