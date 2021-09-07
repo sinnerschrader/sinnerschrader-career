@@ -1,7 +1,7 @@
 ---
     language: de
     location: Ham
-    discipline:CF
+    discipline: CF
     level: all
     company: SinnerSchrader 
     date: 2021-06-02
