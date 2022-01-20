@@ -35,7 +35,7 @@ Aktuell suchen wir für unseren Standort in Hamburg eine **Assistenz (w/m/x/-) f
 - Ausgeprägte Kommunikationsfähigkeit und Teamorientierung
 - Eigenständige und zuverlässige Arbeitsweise mit hoher Lösungsorientierung
 - Sicherheit in deutscher und englischer Kommunikation 
-- Circa 20 - 25 Stunden Zeit pro Wochen 
+- Circa 20 - 25 Stunden Zeit pro Woche
 
 ### Das bieten wir:
 
