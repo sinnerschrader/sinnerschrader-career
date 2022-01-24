@@ -1,10 +1,10 @@
 ---
     language: de
-    location: Ham
+    location: Ber
     discipline: Account
     level: all
     company: SinnerSchrader Swipe
-    date: 2021-07-05
+    date: 2022-01-24
     published: true
     title: Junior Product & Client Manager
     
@@ -13,7 +13,7 @@
 
 SinnerSchrader Swipe ist ein Studio mit Schwerpunkt auf für Mobile Product Management, Design und Software Engineering mit Sitz in Hamburg, Berlin und Zürich. Wir entwickeln digitale Produkte - radikal nutzerzentrierte Services mit Fokus auf digitale (mobile) Touchpoints. Unsere Kernkompetenzen sind Experience Design, Product Design, Strategie sowie Mobile Engineering für iOS und Android. In unserem Portfolio finden sich Unternehmen aus den Bereichen Mobilität, Automotive, Lifestyle und Public Service & Health. Namhafte Kunden sind unter anderem Audi, Motel One, VW und ADAC. Außerdem unterstützen wir mit unseren digitalen Lösungen die Bekämpfung der Pandemie.
  
-Aktuell suchen wir für unseren Hamburger Standort eine:n **Junior Product & Client Manager (w/m/x/-).**
+Aktuell suchen wir für unseren Berliner Standort eine:n **Junior Product & Client Manager (w/m/x/-).**
  
 ### Was dich bei uns erwartet:
  
