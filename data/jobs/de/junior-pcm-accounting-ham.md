@@ -13,7 +13,7 @@
 
 SinnerSchrader gehört zu den führenden Digitalagenturen Europas mit dem Fokus auf Design und Entwicklung von digitalen Produkten und Services. Mehr als 500 Mitarbeiter:innen arbeiten an der digitalen Transformation für Unternehmen wie Allianz, Audi, comdirect bank, ERGO, Telefónica, Unitymedia und VW. SinnerSchrader wurde 1996 gegründet, ist seit 1999 börsennotiert und hat Büros in Hamburg, Berlin, Frankfurt am Main, München, Zürich und Prag. Seit April 2017 ist SinnerSchrader Teil von Accenture Interactive.
  
-Aktuell suchen wir für unseren Hamburger Standort eine:n **Junior Product & Client Manager mit Fokus auf Accounting (w/m/x/-).**
+Aktuell suchen wir für unseren Hamburger Standort eine:n **Junior Product & Client Manager mit Fokus auf Accounting (w/m/x/-)** in Voll- oder Teilzeit.
  
 ### Was dich bei uns erwartet:
  
