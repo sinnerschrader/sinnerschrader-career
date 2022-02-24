@@ -6,7 +6,7 @@
     company: SinnerSchrader
     date: 2022-02-24
     published: true
-    title: Ausbildung Fachinformatiker:in für Anwendungsentwicklung (w/m/x/–)
+    title: Ausbildung Fachinformatiker:in für Anwendungsentwicklung
     description: 
     contact: daniel
 ---
