@@ -2,7 +2,7 @@
     language: de
     location: Ham
     discipline: Tech
-    level: all
+    level: Students
     company: SinnerSchrader
     date: 2022-02-24
     published: true
