@@ -17,7 +17,7 @@ Aktuell suchen wir für unseren Standort in Hamburg eine:n **Technical Director 
  
 Wir suchen dich als Technical Director für die technische Entwicklung transformierender Produkte im Rahmen nativer Apps. Die Rolle erfordert neben der täglichen Leitung von Projekten und Teams bis hin zur Auslieferung der Produkte eine enge Zusammenarbeit mit den anderen Director:innen aus den Bereichen Product & Client Management und Product Design.
  
-Zu deinen Aufgaben gehören u.a. die Einstellung und Leitung eines Teams von Entwickler:innen. Im Rahmen unserer agil arbeitenden Projekte führst du dein Team zum Erfolg und bist für dessen Produktivität und Zufriedenheit verantwortlich. Ebenso triffst du technische Entscheidungen und bist ein Teil unseres Management-Teams in Zürich.
+Zu deinen Aufgaben gehören u.a. die Einstellung und Leitung eines Teams von Entwickler:innen. Im Rahmen unserer agil arbeitenden Projekte führst du dein Team zum Erfolg und bist für dessen Produktivität und Zufriedenheit verantwortlich. Ebenso triffst du technische Entscheidungen und bist ein Teil unseres Management-Teams in Hamburg.
  
 ## Deine Aufgaben:
 - Hands-On Entwicklung nativer Apps für Android
