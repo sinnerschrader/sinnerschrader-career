@@ -12,7 +12,7 @@
 
 SinnerSchrader Swipe is a mobile product management, design and software engineering studio based in Hamburg, Berlin and Zurich. We develop Maximum Loveable Products - radically user-centric services with a focus on mobile touchpoints. Our core competencies are experience design, strategy and mobile engineering for iOS and Android. Our portfolio includes companies from the mobility, automotive, lifestyle and telecommunications sectors. Well-known clients include Audi, Raumfeld, VW and Telefónica.
 
-We are currently looking for an **Technical Director Android (f/m/x/-)** for our location in Hamburg.
+We are currently looking for an **Technical Director Android (f/m/d/-)** for our location in Hamburg.
 
 We are looking for you as Technical Director for the technical development of transformative products in the context of native apps. The role requires close collaboration with other Directors from Product & Client Management and Product Design, as well as day-to-day management of projects and teams through to product delivery.
 
